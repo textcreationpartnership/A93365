@@ -1,0 +1,2501 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of Joseph, or, A divine poem upon Joseph and his brethren from the 37th of Genesis to the end, written exactly according to each chapter : to which is added a few other poems, the like never before, by John Smith ...</title>
+            <author>Smith, John, fl. 1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93365</idno>
+            <idno type="STC">Wing S4090C</idno>
+            <idno type="STC">ESTC R43752</idno>
+            <idno type="EEBO-CITATION">42475194</idno>
+            <idno type="OCLC">ocm 42475194</idno>
+            <idno type="VID">151349</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151349)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2256:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of Joseph, or, A divine poem upon Joseph and his brethren from the 37th of Genesis to the end, written exactly according to each chapter : to which is added a few other poems, the like never before, by John Smith ...</title>
+                  <author>Smith, John, fl. 1677.</author>
+               </titleStmt>
+               <extent>[10], 62 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for W. Thackeray ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, tightly bound and with print show-through and loss of print.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Joseph --  (Son of Jacob)</term>
+               <term>Bible. --  O.T. --  Genesis XXXVII-L --  Paraphrases.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="poem">
+            <pb facs="tcp:151349:1"/>
+            <p>THE <hi>Hiſtory</hi> of <hi>JOSEPH:</hi> OR, A DIVINE POEM UPON <hi>Joſeph</hi> and his Brethren. FROM The 37th. of <hi>Geneſis</hi> to the end. Written exactly according to each Chapter; to which is Added a few other Poems: The like never before.</p>
+            <p>By <hi>John Smith,</hi>
+            </p>
+            <lg>
+               <l>Who is a lover, and ſometimes</l>
+               <l>Takes great delight in reading Rhimes:</l>
+               <l>Yea, <hi>Quarles</hi> and <hi>Sandys,</hi> he adore</l>
+               <l>Their noble works, and many more;</l>
+               <l>Yet is not worthy to undoe</l>
+               <l>The Latchet of a Poets Shooe.</l>
+            </lg>
+            <q>
+               <p>
+                  <hi>Glory to God in th' higheſt Heaven ſtill;</hi>
+               </p>
+               <p>
+                  <hi>Peace upon Earth, and towards mee, good will.</hi>
+               </p> 
+               <bibl>Luk. 2. 14.</bibl>
+            </q>
+            <q>
+               <lg>
+                  <l>Good Chriſtians, let it be your chief delight,</l>
+                  <l>To ſing the praiſe of God both day and night.</l>
+                  <l>Let this be Printed in each faithful heart,</l>
+                  <l>To joyn in Conſort with me, and bear part.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. M.</hi> for <hi>W. Thackeray,</hi> at the <hi>Angel</hi> in <hi>Duck-Lane, 1677.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:151349:2"/>
+            <p>Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>December 17th. 1676.</date>
+               </dateline>
+               <signed>Roger L'Eſtrange.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151349:2"/>
+            <head>TO HIS Worthy Miſtriſs, Mrs. <hi>S<g ref="char:V">Ʋ</g>SAN J<g ref="char:V">Ʋ</g>CKES,</hi> Living in <hi>Brickington-</hi>Court in <hi>Coleman.</hi> Street, <hi>London;</hi> Wiſhing her all Happineſs in this World, and Eternal Felicity in the World to come, through Jeſus Chriſt our Lord.</head>
+            <opener>
+               <salute>Worthy Miſtriſs,</salute>
+            </opener>
+            <lg>
+               <l>TO You I do preſent</l>
+               <l>This little Book, hoping 'twill you content:</l>
+               <l>Accept, I pray you, of theſe feeble Rimes;</l>
+               <l>They are th' Fruits (Sooth) of my leaſure times.</l>
+               <l>But if they ſhould in the leaſt you offend,</l>
+               <l>I ſhall repent that ever they were Pen'd:</l>
+               <l>Becauſe you are my Miſtriſs; and I ſee,</l>
+               <l>You have been more, a Mother unto me.</l>
+               <l>And, like a Son, you alwayes do me foſter:</l>
+               <l>Though I your Prentice, yet live like a Maſter.</l>
+               <l>If <hi>Joſeph</hi>'s Miſtris ſhe had been ſo true:</l>
+               <l>Nay, had ſhe been but half ſo good as You,</l>
+               <pb facs="tcp:151349:3"/>
+               <l>Then <hi>Joſeph</hi> he had never ſuffer'd wrong,</l>
+               <l>Nor never had been caſt in Priſon ſtrong:</l>
+               <l>But he a wanton Miſtriſs had we ſee,</l>
+               <l>Though he deſerv'd a better far than me.</l>
+               <l>Now, though I am unfit to ſing your Praiſe,</l>
+               <l>I'le Honour and Reſpect you all my dayes,</l>
+               <l>Though not in outward ſhew, as other do:</l>
+               <l>I am your faithful Servant juſt and true;</l>
+               <l>And for your Health, Proſperity, and Peace,</l>
+               <l>My Prayers t'God for You ſhall never ceaſe:</l>
+               <l>That you may never want; yet allwayes giving,</l>
+               <l>Till you ſhall ceaſe to be among the Living:</l>
+               <l>And when the Lord ſhall call you hence away,</l>
+               <l>You may depart into Eternal Joy;</l>
+               <l>Among whole Quires of Angels, for to ſing</l>
+               <l>ſweet Hallelujahs to your Heavenly King.</l>
+               <l>Now God preſerve you whilſt you live on Earth:</l>
+               <l>I am your humble Servant untill Death,</l>
+               <closer>
+                  <signed>JOHN SMITH.</signed>
+                  <dateline>
+                     <date>January 20. 1675.</date>
+                  </dateline>
+               </closer>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:151349:3"/>
+            <head>THE PROPOSITION.</head>
+            <lg>
+               <l>NOw Courteous Reader, who ſo e'r thou be</l>
+               <l>That Read thoſe Lines, judg not amiſs of me;</l>
+               <l>Think not I turn Gods Word into a Song,</l>
+               <l>To be profan'd by every idle Tongue.</l>
+               <l>No; wanton Songs amongſt us are too Rife:</l>
+               <l>I charge thee, touch it not upon thy Life,</l>
+               <l>Except it be to Sing the Praiſe and Glory</l>
+               <l>Of dread <hi>Jehovah:</hi> 'Tis no idle Story.</l>
+               <l>I Sing the Praiſes of the Lord of Might,</l>
+               <l>Who dwells for ever in exceſſive Light;</l>
+               <l>Whoſe handy Work the Heavens do declare;</l>
+               <l>His Works, his Glorious Works of Wonders rare:</l>
+               <l>The Sun and Moon His Glory do preſent,</l>
+               <l>And th'twinkling Stars throughout the Firmament;</l>
+               <l>Which Light he gives to us the Sons of Men;</l>
+               <l>How far more glorious is his Glory then?</l>
+               <l>I Sing his Praiſe who did Advance, we ſee,</l>
+               <l>His Servant <hi>Joſeph</hi> to a High Degree;</l>
+               <pb facs="tcp:151349:4"/>
+               <l>Who by his Wiſdom gave to him ſuch Skill,</l>
+               <l>Dreams to Interpret, and declare his Will.</l>
+               <l>I Sing his Praiſe, who by his mighty Hand,</l>
+               <l>did after bring great Plagues on <hi>Egypt</hi> Land,</l>
+               <l>For to Redeem his People <hi>Iſrael,</hi>
+               </l>
+               <l>Who did in Bondage, and in Slavery dwell.</l>
+               <l>I Sing the Praiſes of the highest God,</l>
+               <l>Who ſhew'd ſuch Wonders great by <hi>Moſes</hi> Rod;</l>
+               <l>Who with a Stroke, the Red-Sea did divide;</l>
+               <l>the Waters ſtood like Walls upon each ſide,</l>
+               <l>All <hi>Iſrael</hi> marched through upon dry Ground;</l>
+               <l>(But all th' <hi>Egyptians</hi> in the midſt were drown'd)</l>
+               <l>And brought them to their Promis'd Land to dwell,</l>
+               <l>Who forty Years againſt him did Rebell.</l>
+               <l>Although our Sins grow daily more and more,</l>
+               <l>The Lord our God hath Mercies ſtill in ſtore.</l>
+               <l>Lord, what is Man that thou ſhouldſt prove ſo kind!</l>
+               <l>What is the Son of Man thou dost him mind!</l>
+               <l>I Sing his Praiſe, whoſe Power caus'd the Sun</l>
+               <l>To ſtand for <hi>Joſhua</hi> the Son of <hi>Nun;</hi>
+               </l>
+               <l>Thereby his Peoples Foes he might deſtroy,</l>
+               <l>Gave him a long and Victorious Day.</l>
+               <l>I Sing his Praiſe, who gave ſuch ſtrength &amp; might</l>
+               <l>To <hi>Sampſon,</hi> who a thouſand Men did ſmite;</l>
+               <l>He ſlew them all, his Strength did ſo ſurpaſs,</l>
+               <l>With nothing but the Jaw-bone of an Aſs.</l>
+               <l>I Sing his Praiſe, who gave ſuch Courage hold</l>
+               <l>To <hi>David,</hi> when his Peoples Hearts grew cold,</l>
+               <pb facs="tcp:151349:4"/>
+               <l>T' ſlay their Enemy, though a Stripling,</l>
+               <l>That great <hi>Goliah,</hi> with a ſilly Sling.</l>
+               <l>O how his Wonders great do ſpread his Fame!</l>
+               <l>Great is the Lord, <hi>Jehovah</hi> is his Name!</l>
+               <l>O Let us Sing his Praiſes, great and ſmall,</l>
+               <l>Who gave himſelf a Ranſom for us All;</l>
+               <l>Who did upon him take our Humane Birth,</l>
+               <l>And came and dwelt amangſt us on the Earth;</l>
+               <l>Who Caſt out Devils, and Cur'd the Leproſie;</l>
+               <l>And made the Lame to VValk, the Blind to See;</l>
+               <l>And Rais'd the Dead, and did Reſtore again,</l>
+               <l>The Sick to Health, and did Releaſe their Pain:</l>
+               <l>And then his precious Blood did freely give,</l>
+               <l>And ſuffer'd Death, that we thereby might live.</l>
+               <l>Lord, I am far unfit to Sing thy Praiſe,</l>
+               <l>I am the Chiefeſt of Sinners all my Dayes:</l>
+               <l>Pardon my Sins, for my Redeemers Sake,</l>
+               <l>Who in ſix Dayes the Heaven &amp; Earth did make,</l>
+               <l>Who in a Moment can the ſame deſtroy:</l>
+               <l>O make me fit for thy Eternal Joy!</l>
+               <l>O thou, who art Creator of all things,</l>
+               <l>Teach me to ſing thy Praiſe, thou King of Kings!</l>
+               <l>But rather than I ſhould offend thy Will,</l>
+               <l>Silence my Tongue O Lord, and ſtay my Quill:</l>
+               <l>Becauſe I can no way withſtand thine Ire:</l>
+               <l>I know thou art, Lord, a conſuming Fire.</l>
+               <l>How wonderful are all thy Works, O Lord?</l>
+               <l>Thy Goodneſs and thy Riches doth afford</l>
+               <pb facs="tcp:151349:5"/>
+               <l>Great plenty of thy Creatures many-folde</l>
+               <l>To us, as have been ever ſtill of Old.</l>
+               <l>O who will not Gods holy Name Adore,</l>
+               <l>Who by his Power Rules for ever more:</l>
+               <l>His Eyes behold the Nations; Ever ſeeing?</l>
+               <l>In Him we Live, and Move, and have our Being.</l>
+               <l>Who dare Exalt himſelf against the Lord?</l>
+               <l>Who dare Rebell againſt his Holy Word?</l>
+               <l>If any Love Him not upon the Earth,</l>
+               <l>Woe! Woe to them! They are accurst to Death!</l>
+               <l>I'le not Exalt my ſelf above all other,</l>
+               <l>To think my ſelf more Righteous than another:</l>
+               <l>I will in no caſe plead the Phariſee,</l>
+               <l>But the poor Publican I'le rather be:</l>
+               <l>For, let us ſerve the Lord with all our care,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nprofitable Servants ſtill we are.</l>
+               <l>Many there are that make an outward ſhow;</l>
+               <l>But thoſe that fear thy Name, Lord, thou doſt know.</l>
+               <l>Some are of this Chrch, other-ſome are not;</l>
+               <l>Some are of that Church, ſome I know not what:</l>
+               <l>But very few there are of thine, I fear;</l>
+               <l>Thy Church is ſcatter'd, Lord, I know not where.</l>
+               <l>Make hast O Lord, bring thy true Church together,</l>
+               <l>And then direct me, that I may go thither:</l>
+               <l>For in this World I have not long to ſtay,</l>
+               <l>Yet like a wandering Pilgrim go aſtray;</l>
+               <l>And in thy Truth am ſtill a young Beginner:</l>
+               <l>O God be merciful to me a Sinner.</l>
+               <closer>
+                  <signed>HALELUJAH.</signed>
+               </closer>
+            </lg>
+         </div>
+         <div type="acrostic">
+            <pb facs="tcp:151349:5"/>
+            <head>A CROSTICH Upon his NAME.</head>
+            <lg>
+               <l>
+                  <hi>J</hi>n thee, O Lord, I'le put my truſt alwayes,</l>
+               <l>
+                  <hi>O</hi> Lord my God, to thee I will ſing Praiſe:</l>
+               <l>
+                  <hi>H</hi>owever thou doſt pleaſe to deal with me,</l>
+               <l>
+                  <hi>N</hi>ever, O never let me ſlide from thee.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>S</hi>uffer me not, O Lord, to go aſtray;</l>
+               <l>
+                  <hi>M</hi>ake me I may thy holy Word obey;</l>
+               <l>
+                  <hi>I</hi> then thy faithful Servant ſtill ſhall be,</l>
+               <l>
+                  <hi>T</hi>o hate and to abhor Iniquity,</l>
+               <l>
+                  <hi>H</hi>onouring and Exalting none but thee.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:151349:6"/>
+            <pb n="1" facs="tcp:151349:6"/>
+            <head>THE <hi>Hiſtory</hi> of <hi>Joſeph:</hi> OR, A Divine Poem upon <hi>Joſeph</hi> and his Brethren.</head>
+            <div n="1" type="chapter">
+               <head>CHAP I. <hi>Being the</hi> xxxvii. <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>Joſeph <hi>his Dreams do here Relate,</hi>
+                     </l>
+                     <l>
+                        <hi>His Brethren for it do him hate;</hi>
+                     </l>
+                     <l>
+                        <hi>And in their Malice did him ſell</hi>
+                     </l>
+                     <l>
+                        <hi>To</hi> Egypt, <hi>there a Slave to dwell;</hi>
+                     </l>
+                     <l>
+                        <hi>Hoping they ne'r ſhould ſee him more:</hi>
+                     </l>
+                     <l>
+                        <hi>But</hi> Jacob <hi>mourneth for him ſore.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>OUr Antient Father <hi>Jacob</hi> call'd by Name,</l>
+                  <l>Dwelt in the Land of <hi>Canaan</hi> in great Fame;</l>
+                  <l>He fear'd the Lord, and did his Word obey;</l>
+                  <l>And in that Land he ſojourn'd many a day:</l>
+                  <pb n="2" facs="tcp:151349:7"/>
+                  <l>He had twelve Sons; and of their Linage came</l>
+                  <l>The Tribes of all the Earth, &amp; bore their Name:</l>
+                  <l>
+                     <hi>Joſeph</hi> and <hi>Benjamin</hi> the youngeſt were,</l>
+                  <l>Whom <hi>Rachel</hi> his beloved Wife did Bear.</l>
+                  <l>Seventeen Years of Age was <hi>Joſeph,</hi> when</l>
+                  <l>He ſometimes kept Sheep with his Bretheren:</l>
+                  <l>Yet he did not delight their Evil Sport,</l>
+                  <l>But brought his Father ſtill, their bad Report.</l>
+                  <l>Now he was pleaſing in his Fathers ſight,</l>
+                  <l>And alſo was his Fathers chief delight:</l>
+                  <l>Begot in's Age; wherefore he lov'd him beſt,</l>
+                  <l>And made his Garment differ from the reſt:</l>
+                  <l>A Coat of party Colours <hi>Joſeph</hi> had.</l>
+                  <l>His Father made it for this comly Lad:</l>
+                  <l>Wherefore his Brethren are with him diſpleas'd,</l>
+                  <l>And hates him ſore, and will not be appeas'd.</l>
+                  <l>But <hi>Joſeph</hi> dreamt a Dream, and thus did ſay</l>
+                  <l>Unto his Brethren, <hi>Here my Dream I pray:</hi>
+                  </l>
+                  <l>
+                     <hi>Behold, we were together in the Field</hi>
+                  </l>
+                  <l>
+                     <hi>A binding Sheaes, and when we had them fill'd,</hi>
+                  </l>
+                  <l>
+                     <hi>And bound them up, they all ſtood up an end;</hi>
+                  </l>
+                  <l>
+                     <hi>Mine in the mia'st, as I could comprehend:</hi>
+                  </l>
+                  <l>
+                     <hi>And all of yours with meek behaviour Fine,</hi>
+                  </l>
+                  <l>
+                     <hi>Did make Obeiſance, and bow down to mine.</hi>
+                  </l>
+                  <l>Then ſaid his Brethren, <hi>Shalt thou Rule &amp; Reign</hi>
+                  </l>
+                  <l>
+                     <hi>Over us all?</hi> but ſpoke it in diſdain:</l>
+                  <l>And now their Hatred yet did more increaſe,</l>
+                  <l>They would not ſpeak a word to him in Peace.</l>
+                  <pb n="3" facs="tcp:151349:7"/>
+                  <l>Yet <hi>Joſeph</hi> dream'd another Dream, and told</l>
+                  <l>His Father, and his Brethren: <hi>Behold,</hi>
+                  </l>
+                  <l>
+                     <hi>The Sun &amp; Moon, and th' Eleven Stars</hi> (ſaid he)</l>
+                  <l>
+                     <hi>Did bow, and make ob<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iſance unto me.</hi>
+                  </l>
+                  <l>
+                     <hi>What mean thoſe Dreams</hi> (his Father then did ſay)</l>
+                  <l>
+                     <hi>Muſt I thy Servant be? Must I obey?</hi>
+                  </l>
+                  <l>
+                     <hi>Shall I, and all thy Brethren, bow to thee?</hi>
+                  </l>
+                  <l>
+                     <hi>Away, away my Son, this muſt not be.</hi>
+                  </l>
+                  <l>Thus he Rebukes him, ſeeming then unkind;</l>
+                  <l>But yet he bore thoſe Savings in his Mind.</l>
+                  <l>Now <hi>Joſephs</hi> Brethren did in <hi>Sechem</hi> keep</l>
+                  <l>Their Heards of Cattel, &amp; their Flocks of Sheep:</l>
+                  <l>And Iſrael calls his Son, and bids him go</l>
+                  <l>To <hi>Sechem</hi> to his Brethren, to know</l>
+                  <l>How it is with them, to come and tell</l>
+                  <l>His Father, if they and their Flocks are well.</l>
+                  <l>
+                     <hi>Joſeph</hi> is willing his Father to obey,</l>
+                  <l>And towards <hi>Sechem</hi> ſtrait he took his way.</l>
+                  <l>Now when at length that Country he came nere,</l>
+                  <l>He then was told, His Brethren were not there:</l>
+                  <l>Then to the Man that told him, he did ſay,</l>
+                  <l>
+                     <hi>Where doth my Brethren feed their Flocks I pray?</hi>
+                  </l>
+                  <l>
+                     <hi>Thy Brethren with their Flocks</hi> (ſaid he) <hi>are gone</hi>
+                  </l>
+                  <l>
+                     <hi>From hence to</hi> Dothan: <hi>Joſeph</hi> thereupon</l>
+                  <l>Departed thence, and after them did haſt</l>
+                  <l>To <hi>Dothan,</hi> where he found them out at laſt:</l>
+                  <l>But when his Brethren ſaw him afar off,</l>
+                  <l>Before he came to them, thus they did ſcoff:</l>
+                  <pb n="4" facs="tcp:151349:8"/>
+                  <l>
+                     <hi>Behold, the Dreamer cometh, now</hi> (ſay they)</l>
+                  <l>
+                     <hi>The Dreamer cometh; now we will him ſtay,</hi>
+                  </l>
+                  <l>
+                     <hi>And caſt him in ſome Pit; then we ſhall ſee,</hi>
+                  </l>
+                  <l>
+                     <hi>What will become of theſe his Dreams and He.</hi>
+                  </l>
+                  <l>But <hi>Reuben</hi> did intreat them thus, and ſay,</l>
+                  <l>
+                     <hi>O let's not uſe ſuch Cruelty I pray;</hi>
+                  </l>
+                  <l>
+                     <hi>He is our Brother: let's not do ſo ill;</hi>
+                  </l>
+                  <l>
+                     <hi>O let us not: let's not our Brother kill:</hi>
+                  </l>
+                  <l>
+                     <hi>But if my Brethren you will think it fit,</hi>
+                  </l>
+                  <l>
+                     <hi>We'l caſt him as you ſaid into ſome Pit:</hi>
+                  </l>
+                  <l>
+                     <hi>Reuben</hi> perſwades them thus, cauſe he would fain</l>
+                  <l>Reſtore him to his Father once again:</l>
+                  <l>So then they ſtript him of his Coat at laſt;</l>
+                  <l>And in a Pit poor <hi>Joſeph</hi> he was caſt;</l>
+                  <l>A Pit which in the Wilderneſs was there,</l>
+                  <l>'Twas Empty, and from Water it was clear:</l>
+                  <l>So they ſate down to Dine, and did eſpy</l>
+                  <l>A Company of <hi>Iſhmaelites</hi> go by.</l>
+                  <l>Who came from <hi>Gilead,</hi> and for <hi>Egypt</hi> bent,</l>
+                  <l>To carry Spices was their full intent:</l>
+                  <l>Then <hi>Judah</hi> ſaid unto his Brethren,</l>
+                  <l>
+                     <hi>Let's ſell our Brother</hi> Joſeph <hi>to theſe Men:</hi>
+                  </l>
+                  <l>
+                     <hi>'Twill not avail us, neither is it good,</hi>
+                  </l>
+                  <l>
+                     <hi>To let him Periſh, and conceal his blood.</hi>
+                  </l>
+                  <l>Out of the Pit they drew their Brother then,</l>
+                  <l>And preſently they bargain'd with thoſe Men.</l>
+                  <l>For twenty Silver peeces he was ſold;</l>
+                  <l>All were agreed, the Mony's quickly told.</l>
+                  <pb n="5" facs="tcp:151349:8"/>
+                  <l>Now <hi>Joſeph</hi>'s gone, his Brethren have their will;</l>
+                  <l>He's ſold and gone; but God is with him ſtill.</l>
+                  <l>Then <hi>Reuben</hi> came unto the Pit anon,</l>
+                  <l>To ſeek his Brother, Ah! but he is gone:</l>
+                  <l>He rents his Cloaths, his Vital Spirits burn;</l>
+                  <l>And thus with grief for <hi>Joſeph</hi> he did mourn;</l>
+                  <l>
+                     <hi>The Child is gone, but where I do not know;</hi>
+                  </l>
+                  <l>
+                     <hi>The Child is not; and I, where ſhall I go?</hi>
+                  </l>
+                  <l>And thus poor <hi>Reuben</hi> he did ſadly grieve,</l>
+                  <l>Whilſt they Conſpire their Father to deceive:</l>
+                  <l>So from the Flock they took a Kid and kill'd,</l>
+                  <l>And dipt'd his Coat into the Blood they ſpill'd;</l>
+                  <l>And to their Father did convey it ſo,</l>
+                  <l>To ſee if he might know this Coat or no:</l>
+                  <l>And <hi>Jacob</hi> knew it, and with grief he ſaid,</l>
+                  <l>
+                     <hi>This is my Sons Coat, he is ſure deſtroy'd.</hi>
+                  </l>
+                  <l>
+                     <hi>Alaſs my Son</hi> (ſaid he) <hi>where hath he bin?</hi>
+                  </l>
+                  <l>
+                     <hi>Some evil Beaſt hath ſure devour'd him.</hi>
+                  </l>
+                  <l>And now he rents his Cloaths in woful ſort,</l>
+                  <l>And mourns in Sack-cloath ſo, his Sons reſort</l>
+                  <l>To comfort him; but Comfort's from him fled,</l>
+                  <l>And he refuſes to be Comforted.</l>
+                  <l>
+                     <hi>He's Dead</hi> (ſaid he)! <hi>what Pleaſure can I have?</hi>
+                  </l>
+                  <l>
+                     <hi>I will go down with Sorrow to the Grave.</hi>
+                  </l>
+                  <l>Thus for him many Dayes he did lament,</l>
+                  <l>Mourning full ſore with grief and diſcontent;</l>
+                  <l>Nothing would any Comfort to him give:</l>
+                  <l>But <hi>Joſeph</hi>'s well, and doth in <hi>Egypt</hi> live.</l>
+               </lg>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="6" facs="tcp:151349:9"/>
+               <head>CHAP. II. <hi>Being the</hi> xxxix. <hi>of</hi> Geneſis:</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>Joſeph <hi>to Potiphar is ſold;</hi>
+                     </l>
+                     <l>
+                        <hi>God doth him proſper many-fold.</hi>
+                     </l>
+                     <l>
+                        <hi>Potiphars Wife doth fix her Eye</hi>
+                     </l>
+                     <l>
+                        <hi>On</hi> Joſeph, <hi>and would with him Lye:</hi>
+                     </l>
+                     <l>
+                        <hi>But he denyes her, being Chaſt;</hi>
+                     </l>
+                     <l>
+                        <hi>And therefore is in Priſon caſt.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>NOw down to <hi>Egypt Joſeph</hi> he was brought,</l>
+                  <l>And by an Officer of <hi>Pharaoh</hi>'s bought.</l>
+                  <l>The <hi>Iſhmaelites</hi> in <hi>Egypt</hi> did him ſell</l>
+                  <l>To <hi>Potiphar,</hi> and with him he doth dwell:</l>
+                  <l>And now the Lord's with <hi>Joſeph,</hi> and doth give</l>
+                  <l>Proſperity with's Maſter where he live:</l>
+                  <l>His Maſter ſaw it, and did underſtand</l>
+                  <l>The Lord made all things proſper in his Hand:</l>
+                  <l>Wherefore in <hi>Joſeph</hi> he took great delight;</l>
+                  <l>So that he found great favour in his ſight:</l>
+                  <l>He made him Ruler over all he had;</l>
+                  <l>Of his true Servant he's exceeding glad:</l>
+                  <l>And from that time he did him Ruler make:</l>
+                  <l>God bleſt what e're he had, for <hi>Joſeph's</hi> ſake:</l>
+                  <pb n="7" facs="tcp:151349:9"/>
+                  <l>He bleſt his houſe with great Content and Peace;</l>
+                  <l>And bleſt his field alſo, with great Increaſe.</l>
+                  <l>And now all things are left to <hi>Joſeph's</hi> hand;</l>
+                  <l>He takes account of nothing to Command,</l>
+                  <l>Saving the bread, which he alone did eat;</l>
+                  <l>Nothing he doth regard, except his meat.</l>
+                  <l>Now <hi>Joſeph's</hi> Comely; yet will not be led</l>
+                  <l>To ill temptations, though well-favoured:</l>
+                  <l>Though he hath Pleaſure and Content his fill,</l>
+                  <l>And may lye with his Miſtriſs, if he will:</l>
+                  <l>No; <hi>Joſeph</hi> he doth love and fear the Lord;</l>
+                  <l>And therefore ſuch great wickedneſſe abhor'd.</l>
+                  <l>But yet his Miſtris caſts her wanton Eye</l>
+                  <l>On him, deſiring him, with her to Lye;</l>
+                  <l>But <hi>Joſeph,</hi> he his Miſtriſs did refuſe;</l>
+                  <l>And did intreat her, that ſhe would excuſe</l>
+                  <l>Him; ſaying thus, You well do underſtand,</l>
+                  <l>My Maſter hath put all things in my hand:</l>
+                  <l>There's none in all his houſe ſo great as I;</l>
+                  <l>Nothing at all that he doth me deny</l>
+                  <l>Of all he hath, that doth belong to Life,</l>
+                  <l>But only thee; becauſe thou art his Wife.</l>
+                  <l>How can I do this wickedneſſe <hi>(quoth he)</hi>
+                  </l>
+                  <l>And ſin againſt my God? it muſt not be.</l>
+                  <l>Yet day by day, ſhe ſought to have her will;</l>
+                  <l>But he withſtands her, and denies her ſtill.</l>
+                  <l>Then on a certain day, when <hi>Joſeph</hi> went</l>
+                  <l>Into the houſe, where he did much frequent,</l>
+                  <pb n="8" facs="tcp:151349:10"/>
+                  <l>She came to him, ſeeing that none was by,</l>
+                  <l>And Caught him by the Garment, ſaying, Lye</l>
+                  <l>With me; but <hi>Joſeph</hi> ſoon did her withſtand,</l>
+                  <l>And fled, and left his Garment in her hand;</l>
+                  <l>And got him out: but when that he was gone,</l>
+                  <l>She call'd ſome other of her houſe, anon;</l>
+                  <l>And ſaid, the <hi>Ebrew</hi> ſervant he hath brought,</l>
+                  <l>Came in to mock me; and with me he ſought</l>
+                  <l>To Lye: but when I lift my voice, and Cry'd,</l>
+                  <l>He fled away, becauſe I him deny'd:</l>
+                  <l>And here his Garment he hath left with me;</l>
+                  <l>But when my Lord comes, he the ſame ſhall ſee.</l>
+                  <l>So, when her Lord came home, thus ſhe did ſay,</l>
+                  <l>Thy <hi>Ebrew</hi> ſervant mocked me to day;</l>
+                  <l>He came to Sleep with me; but when I Cry'd,</l>
+                  <l>He fled a way, becauſe I him deny'd:</l>
+                  <l>He fled, and left his Garment here with me;</l>
+                  <l>I laid it up, my Lord, for you to ſee.</l>
+                  <l>Now, when her Lord this thing did underſtand,</l>
+                  <l>His wrath was kindl'd; and he did Command,</l>
+                  <l>That <hi>Joſeph</hi> ſhould be Caſt in Priſon ſtrong:</l>
+                  <l>His righteous ſervant, now, muſt ſuffer wrong:</l>
+                  <l>But God's with <hi>Joſeph;</hi> loves his meek behaviour,</l>
+                  <l>And in the Priſon he hath got him Favour:</l>
+                  <l>The keeper of the Priſon thinks it fit,</l>
+                  <l>All things to <hi>Joſeph's</hi> hand he doth commit.</l>
+                  <l>He ſees that all things proſpers in his hand,</l>
+                  <l>He looks to nothing; <hi>Joſeph</hi> bears Command.</l>
+                  <pb n="9" facs="tcp:151349:10"/>
+                  <l>Now thoſe that love and fear the Lord, we ſee,</l>
+                  <l>Finds Grace and Mercy ſtill, where e're they be.</l>
+               </lg>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Being the</hi> xl. <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>
+                        <hi>King</hi> Pharaohs <hi>ſervants priſon'd are,</hi>
+                     </l>
+                     <l>
+                        <hi>And</hi> Joſeph, <hi>he their Dreams declare;</hi>
+                     </l>
+                     <l>
+                        <hi>But doth acknowledge, 'tis the Lord</hi>
+                     </l>
+                     <l>
+                        <hi>That doth ſuch light to him afford,</hi>
+                     </l>
+                     <l>
+                        <hi>The Buttler doth ungratefull prove,</hi>
+                     </l>
+                     <l>
+                        <hi>Forgetteth</hi> Joſeph's <hi>former Love.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>A Little after this, it Came to paſs,</l>
+                  <l>King <hi>Pharaoh's</hi> Butler and Chief Baker was,</l>
+                  <l>For ſome offence which to the King was done,</l>
+                  <l>They both were caſt in Priſon thereupon.</l>
+                  <l>Into the Priſon now, where <hi>Joſeph</hi> was,</l>
+                  <l>And he the Charge and keeping of them has.</l>
+                  <l>Now in one night, they both of them did Dream,</l>
+                  <l>And in the Morning troubl'd were extream:</l>
+                  <l>
+                     <hi>Joſeph</hi> perceiv'd it; and to them did ſay,</l>
+                  <l>Why are ye now ſo ſad (my Friends) to day?</l>
+                  <pb n="10" facs="tcp:151349:11"/>
+                  <l>We both have dream'd (ſaid they) &amp; troubl'd are</l>
+                  <l>Becauſe we know here's no interpreter.</l>
+                  <l>Interpretations are of God (ſaid he);</l>
+                  <l>Then ſay not ſo, but tell your Dreams to me.</l>
+                  <l>So then the Butler did to <hi>Joſeph</hi> tell</l>
+                  <l>His dream; and ſaid, to me it thus befell;</l>
+                  <l>I ſaw a Vine before me in full growth,</l>
+                  <l>And, in the Vine, three Branches budding forth:</l>
+                  <l>They budded forth, the Bloſſoms did appear;</l>
+                  <l>Next came the Grapes, &amp; quickly ripe they were;</l>
+                  <l>And, in my hand I had King <hi>Pharaoh's</hi> Cup;</l>
+                  <l>I took and wrung the Grapes, and fill'd it up:</l>
+                  <l>And then as far, as I could underſtand,</l>
+                  <l>I did deliver th' Cup to <hi>Pharaoh's</hi> hand.</l>
+                  <l>This is th' Interpretations <hi>(Joſeph</hi> ſayes)</l>
+                  <l>The Branches that thou ſaweſt, are three dayes;</l>
+                  <l>For, by that time, King <hi>Pharaoh</hi> ſhall reſtore</l>
+                  <l>Thee, to thy place, that thou wert in before:</l>
+                  <l>And thou ſhalt alſo bear the ſame Command;</l>
+                  <l>To take and give his Cup into his hand.</l>
+                  <l>But, have me in rememberance with thee,</l>
+                  <l>When thou ſhalt come in thy Proſperity;</l>
+                  <l>And mention me to <hi>Pharaoh</hi> now, I pray,</l>
+                  <l>That I in Priſon may no longer ſtay.</l>
+                  <l>I am an <hi>Ebrew,</hi> ſtolen away by theft,</l>
+                  <l>Out of my Native Land, and here am left</l>
+                  <l>To ſuffer; and yet I have done no wrong</l>
+                  <l>To any, yet am caſt in Priſon ſtrong.</l>
+                  <pb n="11" facs="tcp:151349:11"/>
+                  <l>Now, when the Baker ſaw and underſtood,</l>
+                  <l>What <hi>Joſeph</hi> told the Butler, ſeemed good;</l>
+                  <l>He ſaid unto him, <hi>Joſeph,</hi> now I ſee,</l>
+                  <l>Thy ſaying's good, interpret now for me:</l>
+                  <l>I dream'd I had three Baskets on my head;</l>
+                  <l>In one, bak'd Meat; the Birds about me fled;</l>
+                  <l>Out of the uppermoſt they all did eat,</l>
+                  <l>It being full of <hi>Pharaoh's</hi> dainty Meat.</l>
+                  <l>Then to the Baker, <hi>Joſeph</hi> he did ſay;</l>
+                  <l>Thy baskets likewiſe, each of them's a day:</l>
+                  <l>For, in three dayes, King <hi>Pharaoh</hi> thou ſhalt ſee,</l>
+                  <l>Will cauſe thee to be Hanged on a Tree:</l>
+                  <l>And then, the birdes will come thy Fleſh to eat,</l>
+                  <l>And fly about thee, as they did thy Meat.</l>
+                  <l>So three dayes after, <hi>Pharaoh</hi> made a feaſt;</l>
+                  <l>The Butler, and the Baker, were releaſt:</l>
+                  <l>The Butler did, his butler ſhip Command,</l>
+                  <l>To give the Cup again to <hi>Pharaoh's</hi> hand.</l>
+                  <l>The Baker he was hang'd upon a tree:</l>
+                  <l>What <hi>Joſeph</hi> ſaid, did come to paſs we ſee.</l>
+                  <l>But now the Butler he remember'd not</l>
+                  <l>His old friend <hi>Joſeph,</hi> but hath him forgot.</l>
+               </lg>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="12" facs="tcp:151349:12"/>
+               <head>CHAP. IV. <hi>Being the</hi> xli. <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>
+                        <hi>King</hi> Pharaoh's <hi>dreams torment his mind,</hi>
+                     </l>
+                     <l>
+                        <hi>Till an Expounder he can find:</hi>
+                     </l>
+                     <l>
+                        <hi>The Butler</hi> Joſeph <hi>doth Commend</hi>
+                     </l>
+                     <l>
+                        <hi>To Pharaoh, who doth for him ſend:</hi>
+                     </l>
+                     <l>Joſeph <hi>makes known his dreams; and he,</hi>
+                     </l>
+                     <l>
+                        <hi>Advanced is to high degree.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>BUt ſtay! ſhall righteous <hi>Joſeph</hi> ſtill remain</l>
+                  <l>A Pris'ner, never to come out again!</l>
+                  <l>No; though the Butler he remember'd not,</l>
+                  <l>The Lord his God, he hath not him forgot:</l>
+                  <l>But two years after, by his Mighty hand,</l>
+                  <l>The King of <hi>Egypt</hi> then, he did Command,</l>
+                  <l>That he his righteous <hi>Joſeph</hi> ſhould deliver:</l>
+                  <l>For loe he dream'd that he ſtood by a River;</l>
+                  <l>And ſeven Fat Kine did to him appear</l>
+                  <l>Out of th' River, as he was ſtanding there;</l>
+                  <l>And, in a pleaſant Meddow they did feed:</l>
+                  <l>But, after, ſeven Lean ones did proceed.</l>
+                  <l>And as the fat kine in the Meddow fed,</l>
+                  <l>They, by the lean ones, were devoured.</l>
+                  <pb n="13" facs="tcp:151349:12"/>
+                  <l>Yet, to his ſight, ſo vile they did appear,</l>
+                  <l>They ſtill more ugly, and ill-favour'd were.</l>
+                  <l>Upon this dream King <hi>Pharaoh</hi> did awake;</l>
+                  <l>But fell a ſleep again, his reſt to take;</l>
+                  <l>And dream'd the ſecond time, before 'twas Morn;</l>
+                  <l>And in his dream, ſaw ſeven Ears of Corn,</l>
+                  <l>Which ſprung and grew upon one ſtalk ſo rare,</l>
+                  <l>No Ears of Corn were ever ſeen ſo fair:</l>
+                  <l>And after them, there ſprung up ſeven more,</l>
+                  <l>But with the Eaſt-Wind, blaſted very ſore,</l>
+                  <l>And preſently devour'd all the good.</l>
+                  <l>So, <hi>Pharaoh</hi> he awak't, and underſtood</l>
+                  <l>It 'twas a dream; he quickly gave Command,</l>
+                  <l>To call the <hi>South-ſayers</hi> of all the Land:</l>
+                  <l>They may interpret, and his Dreams declare;</l>
+                  <l>For why, his ſpirits ſorely troubl'd are.</l>
+                  <l>So, all the Wiſe-men far and near did haſt,</l>
+                  <l>And came before their Lord, the King, at laſt.</l>
+                  <l>But when the King, his dreams to them had told,</l>
+                  <l>Not one of them, that could the ſame unfold.</l>
+                  <l>Then, to the King, the Butler he did ſay,</l>
+                  <l>I call to mind a fault in me this day;</l>
+                  <l>When I in priſon, and the Baker were,</l>
+                  <l>
+                     <hi>Pharaoh</hi> in's Anger caus'd us to be there;</l>
+                  <l>So there we being troubl'd in our mind,</l>
+                  <l>We both did dream; but little thought to find</l>
+                  <l>A man, to be indu'd with Wiſdom ſo,</l>
+                  <l>In all the Priſon, that our Dream could ſhow:</l>
+                  <pb n="14" facs="tcp:151349:13"/>
+                  <l>Therefore, we troubled were, and ſore diſmaid;</l>
+                  <l>But there, an <hi>Ebrew</hi> ſervant to us ſaid,</l>
+                  <l>Why are ye now ſo ſad my Friends to day?</l>
+                  <l>What is your trouble? tell it me I pray.</l>
+                  <l>So then we told our Dreams to him, and he</l>
+                  <l>Declar'd the truth, as we did after ſee.</l>
+                  <l>Upon this news, King <hi>Pharaoh</hi> quickly ſent</l>
+                  <l>Some of his Servants, and with ſpeed they went.</l>
+                  <l>Now <hi>Joſeph</hi> ſhall not long in priſon ſtay:</l>
+                  <l>Come forth of priſon, <hi>Joſeph;</hi> come away;</l>
+                  <l>'Tis thee alone, that muſt thoſe Dreames unfold;</l>
+                  <l>'Tis thee alone, ſhalt wear the Chain of Gold.</l>
+                  <l>At laſt, this Newes they did to <hi>Joſeph</hi> bring;</l>
+                  <l>Who ſhav'd, &amp; Chang'd, &amp; came before the King:</l>
+                  <l>So he beheld him, and to him did ſay,</l>
+                  <l>Canſt thou declare a Dream to me I pray?</l>
+                  <l>I have of late, heard great report of thee,</l>
+                  <l>That thou canſt tell a dream, what e're it be.</l>
+                  <l>Then <hi>Joſeph</hi> anſwer'd <hi>Pharaoh</hi> thus, and ſaid,</l>
+                  <l>Let not the King be troubled, nor diſmaid;</l>
+                  <l>For without me, the Lord ſhall anſwer Peace</l>
+                  <l>To <hi>Pharach:</hi> therefore let thy trouble ceaſe.</l>
+                  <l>Then <hi>Pharach</hi> ſaid to <hi>Joſeph;</hi> In my dream,</l>
+                  <l>I by a River ſtood; a pleaſant ſtream;</l>
+                  <l>And ſeven Fat Kine did to me appear,</l>
+                  <l>Out of th' River, as I was ſtanding there:</l>
+                  <l>And in a pleaſant Meddow, they did feed;</l>
+                  <l>But after, Seven Leane ones did proceed,</l>
+                  <pb n="15" facs="tcp:151349:13"/>
+                  <l>And did devour th' fat ones, that were there:</l>
+                  <l>Yet ſtill more ugly, and ill-favour'd were.</l>
+                  <l>Upon this dream, I quickly did awake;</l>
+                  <l>But fell a ſleep again, my Reſt to take;</l>
+                  <l>And dream'd the ſecond time, before 'twas morn;</l>
+                  <l>And in my dream, ſaw ſeven Ears of Corn;</l>
+                  <l>Which ſprang and grew, upon one ſtalk, ſo rare;</l>
+                  <l>No Ears of Corn, were ever ſeen ſo fair:</l>
+                  <l>And after them, there ſprang up ſeven more;</l>
+                  <l>But with the Eaſt Wind, blaſted very ſore,</l>
+                  <l>And preſently devour'd all the good:</l>
+                  <l>So I wak't, and when I underſtood</l>
+                  <l>It was a dream, I quickly did command,</l>
+                  <l>To ſend for the Magicians of the Land:</l>
+                  <l>But none of them, could theſe my Dreams declare;</l>
+                  <l>They knew not what they meant, nor what they are.</l>
+                  <l>Let not the King ſaid <hi>Joſeph</hi> troubl'd be,</l>
+                  <l>The Lord will ſhew the truth thereof to thee;</l>
+                  <l>He has already, what he means to do:</l>
+                  <l>Thy dreams are one, O King, and are not two.</l>
+                  <l>The ſeven Fat Kine that did firſt appear;</l>
+                  <l>They do betoken each of them a Year:</l>
+                  <l>So do the Ears of Corn, that grew ſo rare</l>
+                  <l>Upon one ſtalk, and ſeem'd to thee ſo fair.</l>
+                  <l>The evill kine that after did appear,</l>
+                  <l>And blaſted Ears, do ſhew a Dearth is near.</l>
+                  <l>This is the thing, and thou ſhalt find 'tis true;</l>
+                  <l>Yea this is that the Lord intends to do:</l>
+                  <pb n="16" facs="tcp:151349:14"/>
+                  <l>For, ſeven years of Plenty there ſhall be,</l>
+                  <l>In all thy Land; and after thou ſhalt ſee,</l>
+                  <l>A Famine great, and Plenty ſhall be not</l>
+                  <l>Throughout all Lands; but ſhall be quite forgot</l>
+                  <l>For ſeven more; as thou ſhalt underſtand,</l>
+                  <l>Untill this Famine hath Conſum'd the Land.</l>
+                  <l>And now the cauſe, thy Dream ſo doubl'd was,</l>
+                  <l>The Lord hath ſaid it, and 'twill come to paſs:</l>
+                  <l>Let <hi>Pharaoh</hi> therefore, ſee to get a man,</l>
+                  <l>That is of underſtanding, if he can:</l>
+                  <l>And let him alſo Officers provide;</l>
+                  <l>And ſet them over Egypt Land ſo wide;</l>
+                  <l>And ſee they Carefull be of this Command,</l>
+                  <l>To gather in the Fifth of all the Land;</l>
+                  <l>During the ſeven years of this great Plenty,</l>
+                  <l>To lay up Corn, and let no place be empty,</l>
+                  <l>At thy Command, O King, in every City,</l>
+                  <l>That when the Famine comes, thou may'ſt have pity;</l>
+                  <l>So with thy food thou ſhalt thy Country Cheriſh,</l>
+                  <l>And ſave thy people, that they may not periſh.</l>
+                  <l>Now <hi>Pharaoh's</hi> pleas'd, and ſaid, I witneſs can,</l>
+                  <l>In all my Land, there is not ſuch a man.</l>
+                  <l>And <hi>Pharaoh</hi> ſaid to <hi>Joſeph,</hi> For as much,</l>
+                  <l>As God's great Wiſdom now in thee is ſuch;</l>
+                  <l>There's none of Underſtanding now I ſee,</l>
+                  <l>In all the Land for Wiſdome, like to thee.</l>
+                  <l>Thou ſhalt be next me, none ſhall near remove thee:</l>
+                  <l>But in my throne, I will be ſtill above thee</l>
+                  <pb n="17" facs="tcp:151349:14"/>
+                  <l>Behold, I ſet thee over <hi>Egypt</hi> Land.</l>
+                  <l>And then he took his Ring from off his hand,</l>
+                  <l>And gave it <hi>Joſeph;</hi> and to him he ſaid,</l>
+                  <l>In Coſtly Garments thou ſhalt be aray'd.</l>
+                  <l>So in fine Linnen, he did him bedeck;</l>
+                  <l>And put a Chain of Gold about his Neck:</l>
+                  <l>His Second Chariot <hi>Joſeph</hi> did command;</l>
+                  <l>The people abrech Cry'd throughout the Land:</l>
+                  <l>And <hi>Pharaoh</hi> ſaid to <hi>Joſeph,</hi> thou ſhalt ſee,</l>
+                  <l>I <hi>Pharaoh</hi> am; and therefore none but thee,</l>
+                  <l>Shall dare to ſtir a foot, in all the Land;</l>
+                  <l>But ſhall before thee in ſubjection ſtand.</l>
+                  <l>And <hi>Joſeph, Pharaoh</hi> call'd another Name,</l>
+                  <l>And gave to him, a Wife of princely fame.</l>
+                  <l>And he was thirty years of Age, when he</l>
+                  <l>Departed from the King, the Land to ſee.</l>
+                  <l>So <hi>Joſeph</hi> went throughout all <hi>Egypt</hi> Land,</l>
+                  <l>And gather'd Corn, in number as the ſand:</l>
+                  <l>He, and his ſervants, gather'd in ſuch ſtore,</l>
+                  <l>They knew not where to lay up any more.</l>
+                  <l>And now, two ſons, to <hi>Joſeph,</hi> there were Born;</l>
+                  <l>Before the Dearth, and ſcarſity of Corn.</l>
+                  <l>
+                     <hi>Manaſſeth, Joſeph</hi> call'd the firſt by Name;</l>
+                  <l>Saying, the land's forgot from whence I came.</l>
+                  <l>He call'd the ſecond <hi>Ephraim,</hi> for <hi>(ſaid he)</hi>
+                  </l>
+                  <l>In my affliction God hath gave him me.</l>
+                  <l>The ſeven years of plenty, now doth Ceaſe;</l>
+                  <l>As <hi>Joſeph</hi> ſaid, the Famine did increaſe:</l>
+                  <pb n="18" facs="tcp:151349:15"/>
+                  <l>Over all Lands, the Famine ſore is ſpread;</l>
+                  <l>But in the Land of <hi>Egypt,</hi> there was bread.</l>
+                  <l>At length the ſcarcity increas'd amain</l>
+                  <l>Among th' Egyptians; So they did Complain</l>
+                  <l>To <hi>Pharaoh:</hi> But <hi>(ſaid he)</hi> to <hi>Joſeph</hi> go;</l>
+                  <l>Make your addreſſes to him, let him know:</l>
+                  <l>So then they did, and <hi>Joſeph</hi> of his ſtore,</l>
+                  <l>Did fell to them, but ſtill they wanted more.</l>
+                  <l>All Nations buyes their food at <hi>Joſeph's</hi> hands;</l>
+                  <l>Becauſe the Famine's grievous in all Lands:</l>
+                  <l>So grievous, that all Nations far and nigh,</l>
+                  <l>Comes all to <hi>Egypt,</hi> now, their food to buy.</l>
+               </lg>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>Being the</hi> xlii <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>
+                        <hi>Now</hi> Jacob <hi>ſendeth ſpeedily,</hi>
+                     </l>
+                     <l>
+                        <hi>His Sons to</hi> Egypt, <hi>food to buy.</hi>
+                     </l>
+                     <l>
+                        <hi>But</hi> Joſeph <hi>takes them all for ſpies;</hi>
+                     </l>
+                     <l>
+                        <hi>And</hi> Simeon <hi>there a priſoner lies:</hi>
+                     </l>
+                     <l>
+                        <hi>The reſt return, oppreſt in minde,</hi>
+                     </l>
+                     <l>
+                        <hi>For Grief their brother's left behind.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>NOw <hi>Jacob</hi> call's his ſons, and thus he ſaid,</l>
+                  <l>Chear up your ſelves, and be not you diſ<g ref="char:EOLhyphen"/>maid:</l>
+                  <l>Why do you now upon each other gaze?</l>
+                  <l>Why do ye ſtand ſo? are you in a Maze?</l>
+                  <pb n="19" facs="tcp:151349:15"/>
+                  <l>Behold, ſaid he, I now do underſtand,</l>
+                  <l>That there is Corn enough in <hi>Egypt</hi> Land.</l>
+                  <l>Then get you down to <hi>Egypt;</hi> go, and buy</l>
+                  <l>A little food from thence, we may not dye.</l>
+                  <l>So <hi>Joſeph's</hi> breth'ren, they did haſte away,</l>
+                  <l>But <hi>Benjamin</hi> doth with his father ſtay;</l>
+                  <l>For <hi>Jacob</hi> ſaid, leaſt miſchief him befall,</l>
+                  <l>And he be loſt, I am bereft of all.</l>
+                  <l>So <hi>Jacob's</hi> ſons to <hi>Egypt</hi> came at laſt;</l>
+                  <l>Before the governor, they all did haſt;</l>
+                  <l>And in his preſence, are admitted now,</l>
+                  <l>And to the earth, before him they did bow.</l>
+                  <l>Now <hi>Joſeph</hi> knew his bretheren, &amp; ſaid,</l>
+                  <l>From whence come you? which made 'em fore afraid;</l>
+                  <l>Becauſe he roughly ſpoke and ſeem'd ſo ſtrange,</l>
+                  <l>As though his countenance did ſomthing change.</l>
+                  <l>Now they their brother <hi>Joſeph</hi> hath forgot;</l>
+                  <l>Although he knows them, yet they know him not.</l>
+                  <l>We came from <hi>Canaan</hi> Sir, they did reply;</l>
+                  <l>We hither come, a little food to buy.</l>
+                  <l>
+                     <hi>Joſeph</hi> remember'd now his Dreams, and ſaid,</l>
+                  <l>You ſure are come as Spies, I am afraid.</l>
+                  <l>But they ſaid, Nay my Lord, thy ſervant's come</l>
+                  <l>To buy us food, the famines ſore at home:</l>
+                  <l>We all are one mans ſons, they thus replyes;</l>
+                  <l>Thy ſervants are true men, we are no Spyes.</l>
+                  <l>But <hi>Joſeph</hi> ſaid, do I not underſtand,</l>
+                  <l>You come as ſpyes, to ſee our naked Land.</l>
+                  <pb n="20" facs="tcp:151349:16"/>
+                  <l>But they ſaid, Nay, we all are Bretheren;</l>
+                  <l>We are no ſpyes, my Lord; we are true men;</l>
+                  <l>All of our Father lawfully begot:</l>
+                  <l>The youngeſt is with him; but one is not.</l>
+                  <l>Then <hi>Joſeph</hi> ſaid, I take you now for ſpyes,</l>
+                  <l>Becauſe I think theſe ſtories you deviſe;</l>
+                  <l>By th' life of <hi>Pharaoh,</hi> you ſhall not go hence;</l>
+                  <l>For with your ſpeeches, I cannot diſpence,</l>
+                  <l>Untill, that brother come, that I may know,</l>
+                  <l>If there be any truth in you, or no:</l>
+                  <l>Then ſend for him, and let the truth appear;</l>
+                  <l>Or elſe you ſhall remain as priſoners here.</l>
+                  <l>So then, he put them in ward all three dayes;</l>
+                  <l>But on the third day, thus to them he ſayes;</l>
+                  <l>This do, and live; for I do fear the Lord,</l>
+                  <l>Therefore this liberty Il'e you afford;</l>
+                  <l>Go, carry Food for all you have at home;</l>
+                  <l>But bring your younger brother when you come:</l>
+                  <l>And one of you ſhall here in priſon ſtay;</l>
+                  <l>But go the reſt with food, and haſt away.</l>
+                  <l>So then they fell to reaſon with each other;</l>
+                  <l>And ſaid, we ſure are guilty of our brother;</l>
+                  <l>When he beſought, and craved Mercy on us,</l>
+                  <l>But we refus'd; now evils come upon us.</l>
+                  <l>Then <hi>Reuben</hi> ſaid, to ſave him, I deſir'd,</l>
+                  <l>But you would not: and now his blood's requir'd.</l>
+                  <l>And now they thought none underſtood them; for,</l>
+                  <l>
+                     <hi>Joſeph</hi> he ſpake by an interpreter:</l>
+                  <pb n="21" facs="tcp:151349:16"/>
+                  <l>So then he turn'd aſide from them, to weep;</l>
+                  <l>But yet his brother <hi>Simeon</hi> he will keep:</l>
+                  <l>And caus'd him to be bound before their eyes,</l>
+                  <l>That they may ſee, he takes them ſtill for ſpyes.</l>
+                  <l>And then his Servants did Command, that they</l>
+                  <l>Should fill their ſacks with Corn, they might away.</l>
+                  <l>And give them victuals, that they might not lack,</l>
+                  <l>And put their mony-bags into each ſack.</l>
+                  <l>So this they did, and they departed thence,</l>
+                  <l>To take their Journey; now they did Commence:</l>
+                  <l>And when they came at length into their Inn</l>
+                  <l>To give their Aſſes Corn, they did begin:</l>
+                  <l>And lo, when one he had his ſack unty'd,</l>
+                  <l>his bag of money there he ſoon eſpy'd.</l>
+                  <l>Behold, my money's in my ſack, he ſaid;</l>
+                  <l>But when they ſaw it, they were all afraid:</l>
+                  <l>And ſaid unto each other thereupon,</l>
+                  <l>O what is this the Lord to us hath done!</l>
+                  <l>And now with ſpeed, they haſted home to tell</l>
+                  <l>Their Father, how all things to them befell:</l>
+                  <l>The man, ſaid they, that's Lord of <hi>Egypt</hi> Land,</l>
+                  <l>Took us for ſpies, and there he did Command,</l>
+                  <l>That we ſhould be impriſon'd; for (ſaid he)</l>
+                  <l>You all are ſpies, and come our Land to ſee.</l>
+                  <l>But we ſaid, nay, we were twelve bretheren,</l>
+                  <l>All one mans ſons, and all of us true men.</l>
+                  <l>And one is not, the other is this day,</l>
+                  <l>With our Father. So then he thus did ſay,</l>
+                  <pb n="22" facs="tcp:151349:17"/>
+                  <l>If you be true men, you ſhall here with me</l>
+                  <l>A brother leave, that I the truth may ſee.</l>
+                  <l>And go you, carry food for all at home;</l>
+                  <l>But bring yourbrother with you, when you come:</l>
+                  <l>Then I ſhall ſee if you are juſt and true;</l>
+                  <l>And will reſtore your brother unto you,</l>
+                  <l>So I the truth of you may underſtand;</l>
+                  <l>You then, ſaid he, ſhall traffick in our Land.</l>
+                  <l>So now they fell a empting of their food,</l>
+                  <l>And ſaw their money, and amaz'd they ſtood;</l>
+                  <l>Wondering at it, and were ſore diſmaid;</l>
+                  <l>Their father likewiſe, he was ſore afraid,</l>
+                  <l>And thus he ſaid, b'ing troubl'd at their news,</l>
+                  <l>You Rob me of my ſons, and me abuſe:</l>
+                  <l>
+                     <hi>Joſeph</hi> is not, and <hi>Simeon's</hi> gone I ſee,</l>
+                  <l>And you'l take <hi>Benjamin;</hi> O wo is me!</l>
+                  <l>Then <hi>Reuben</hi> to his Father thus did ſay,</l>
+                  <l>Suffer the Lad to go with us I pray:</l>
+                  <l>Take my two ſons, and cauſe them to be ſlain,</l>
+                  <l>If I bring not the Lad to thee again.</l>
+                  <l>But <hi>Jacob</hi> ſaid, my Son ſhall never go,</l>
+                  <l>He nere ſhall part from me, for ought I know.</l>
+                  <l>O leave my <hi>Benjamin,</hi> my life to ſave!</l>
+                  <l>Bring not my Gray head Mourning to the grave.</l>
+               </lg>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="23" facs="tcp:151349:17"/>
+               <head>CHAP VI. <hi>Being the</hi> xliii <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>Jacob, <hi>for want of food complaine;</hi>
+                     </l>
+                     <l>
+                        <hi>To</hi> Egypt, <hi>ſends his Sons again:</hi>
+                     </l>
+                     <l>
+                        <hi>But is oppreſt, and full of we</hi>
+                     </l>
+                     <l>
+                        <hi>For grief that</hi> Benjamin, <hi>muſt go.</hi>
+                     </l>
+                     <l>
+                        <hi>So they <gap reason="illegible" resp="#APEX" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Preſent with them take,</hi>
+                     </l>
+                     <l>
+                        <hi>And</hi> Joſeph <hi>much of them doth make.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>NOw in the Land, the famine ſtill was great;</l>
+                  <l>The food they brought from <hi>Egypt's</hi> al<g ref="char:EOLhyphen"/>moſt eat:</l>
+                  <l>Then <hi>Jacob</hi> ſaid, our food now groweth ſcant,</l>
+                  <l>Go buy aga<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> (my Sons) we may not want.</l>
+                  <l>
+                     <hi>Judah</hi> made anſwer to his Father now,</l>
+                  <l>And ſaid the man moſt ſolemnly did vow,</l>
+                  <l>Saying, you <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere ſhall, in my preſence come,</l>
+                  <l>Except you bring your brother that's at home.</l>
+                  <l>Then let the Lad go with us now (ſaid he)</l>
+                  <l>Or, elſe we never more his face ſhall ſee.</l>
+                  <l>But if thou wilt not, then it is in vain;</l>
+                  <l>And we muſt never think to go again.</l>
+                  <pb n="24" facs="tcp:151349:18"/>
+                  <l>Then <hi>Jacob</hi> ſaid, Why did you let him know,</l>
+                  <l>You had a brother? Why would you do ſo?</l>
+                  <l>Becauſe, ſaid they, he every thing enquir'd;</l>
+                  <l>That we were forc't to tell what he deſir'd:</l>
+                  <l>For thus he ſaid: Have you no other brother?</l>
+                  <l>D' your Father live? and one thing or an other,</l>
+                  <l>We anſwer'd him, as you may apprehend,</l>
+                  <l>To all: yet knew not what would be the end.</l>
+                  <l>Could we know certainly, or any other,</l>
+                  <l>That he would ſay unto us, bring your brother?</l>
+                  <l>Then <hi>Judah,</hi> he with this importune great,</l>
+                  <l>Said, Suffer him to go, I thee intreat,</l>
+                  <l>That we may go a little food to buy<g ref="char:punc">▪</g>
+                  </l>
+                  <l>We may not periſh here for want, and dye.</l>
+                  <l>I will be ſurety: what canſt thou deſire?</l>
+                  <l>That of my hands thou mayeſt him require:</l>
+                  <l>And if I bring him not to thee, I'le never</l>
+                  <l>Attempt thy preſence, but be blam'd for ever.</l>
+                  <l>Then lets not tarry, knowing 'tis in vain:</l>
+                  <l>For by this time we might have come again.</l>
+                  <l>Then ſaid their father, if he needs muſt go,</l>
+                  <l>Hard is the caſe; but if it muſt be ſo,</l>
+                  <l>Then take a Preſent with you for the man;</l>
+                  <l>The beſt fruits in your veſſels now you can:</l>
+                  <l>Mirrh, Nuts and Almondes, and a little Hony;</l>
+                  <l>And you ſhall now take with you double money<g ref="char:punc">▪</g>
+                  </l>
+                  <l>The money you brought back beſure you take:</l>
+                  <l>I do ſuppoſe it might be ſome miſtake.</l>
+                  <pb n="25" facs="tcp:151349:18"/>
+                  <l>And take your brother: riſe, go to the man,</l>
+                  <l>Make you your peace with him the beſt you can.</l>
+                  <l>Humble your ſelves to him with meek behavior,</l>
+                  <l>The Lord Almighty grant to you his favour:</l>
+                  <l>He may reſtore to you your Brethren;</l>
+                  <l>Your Brother <hi>Simeon,</hi> and my <hi>Benjamin.</hi>
+                  </l>
+                  <l>But I ſhall of my children be bereav'd;</l>
+                  <l>Yea I ſhall of my Children be deceiv'd:</l>
+                  <l>So with their Preſent, and the Money, they</l>
+                  <l>Roſe up; and with their brother took their way</l>
+                  <l>The ſecond time, to <hi>Egypt</hi> now for food;</l>
+                  <l>When they came there, before their brother ſtood:</l>
+                  <l>Now when he ſaw that <hi>Benjamin</hi> was come</l>
+                  <l>He did command his Steward t' take them home,</l>
+                  <l>Unto his houſe, &amp; bid him kill and ſlay</l>
+                  <l>And get my Dinner ready he did ſay;</l>
+                  <l>A Sumptuous Dinner, ſee you get it done:</l>
+                  <l>Theſe men ſaid he, ſhall dine with me at Noon.</l>
+                  <l>But when thoſe men to <hi>Joſeph's</hi> houſe were brought,</l>
+                  <l>They were diſmaid, &amp; troubl'd in their thought:</l>
+                  <l>Is it not for the Money they did ſay,</l>
+                  <l>That in our Sacks we ſpied by the way,</l>
+                  <l>That we are brought here? ſo they were afraid;</l>
+                  <l>We ſhall be ſlaves, and bond-men now they ſaid,</l>
+                  <l>For they may take occaſion now thereby,</l>
+                  <l>To bring us all in Cruel ſlavery:</l>
+                  <pb n="26" facs="tcp:151349:19"/>
+                  <l>So with th' ſteward they commun'd at the dore,</l>
+                  <l>And ſaid: O Sir, when we came here before,</l>
+                  <l>We came at firſt to buy a little food,</l>
+                  <l>And truly we had that of thee was good:</l>
+                  <l>But by the way, as we our ſacks unti'd,</l>
+                  <l>Our Money in full weight we there eſpi'd;</l>
+                  <l>But we have brought it Sir, again to thee;</l>
+                  <l>And other Money with us thou ſhalt ſee.</l>
+                  <l>But, how this thing, ſaid they, to us befell:</l>
+                  <l>Who put it in our Sacks we cannot tell.</l>
+                  <l>Peace be to you the Steward to them ſaid;</l>
+                  <l>We had your Money, be not you afraid.</l>
+                  <l>The goodneſs of your God is without meaſure,</l>
+                  <l>And in your Sacks hath given you this treaſure.</l>
+                  <l>Thus with ſuch loving words he did them greet,</l>
+                  <l>And gave them water all to waſh their feet.</l>
+                  <l>Their brother <hi>Simeon</hi> he reſtor'd again,</l>
+                  <l>And brought him to them while they there re<g ref="char:EOLhyphen"/>main.</l>
+                  <l>To give their Aſſes Corn he did repair;</l>
+                  <l>For every thing in order there was care:</l>
+                  <l>And they to be more welcome, for remedy,</l>
+                  <l>With diligence did get their Preſent ready:</l>
+                  <l>And then their brother <hi>Joſeph</hi> came at laſt,</l>
+                  <l>To bring their Preſent to him they did haſt:</l>
+                  <l>And in his preſence humbly ſtood round,</l>
+                  <l>And bowd themſelves before him to the ground.</l>
+                  <l>So he enquired of their peace and wealth;</l>
+                  <l>How do's the old man? is he yet in health?</l>
+                  <pb n="27" facs="tcp:151349:19"/>
+                  <l>Is he yet well, and in proſperity?</l>
+                  <l>Or do's he live? So thus they did reply:</l>
+                  <l>Thy ſervant, and our Father, with his wealth</l>
+                  <l>Is yet alive, and do's injoy his health:</l>
+                  <l>And we do hope, that he doth ſo remain;</l>
+                  <l>And ſo they bow'd themſelves to him again.</l>
+                  <l>At laſt he there beheld his younger Brother</l>
+                  <l>
+                     <hi>Benjamin,</hi> and the Son of his own Mother:</l>
+                  <l>And when he did obeiſance to him make,</l>
+                  <l>Is this the Lad, ſaid he, of whom you ſpake?</l>
+                  <l>And thus he ſaid unto him thereupon,</l>
+                  <l>The Lord be mercifull to thee my Son:</l>
+                  <l>Then <hi>Joſeph</hi> haſted, for his Bowels yearn'd</l>
+                  <l>Upon his Brethren, though t'was not diſcern'd:</l>
+                  <l>And where to weep he ſought, and then did go</l>
+                  <l>Into his Chamber: When he had done ſo,</l>
+                  <l>He afterwards came forth; but did retreat</l>
+                  <l>And waſh'd his face, and bid them ſet on meat.</l>
+                  <l>So by himſelf, for him they did prepare,</l>
+                  <l>And for th' <hi>Egyptians</hi> by themſelves, with care.</l>
+                  <l>For none of them by any means would eat,</l>
+                  <l>Not with the <hi>Ebrews</hi> any kind of meat.</l>
+                  <l>So for this cauſe, there was a Separation,</l>
+                  <l>Becauſe to them 'twas an abomination.</l>
+                  <l>Now they were ſet before him to eat bread,</l>
+                  <l>As they in years were, ſo they marvelled:</l>
+                  <l>And then he ſent to each of them a meſs,</l>
+                  <l>From before him, his love for to expreſs:</l>
+                  <pb n="28" facs="tcp:151349:20"/>
+                  <l>But unto <hi>Benjamin,</hi> his love was ſuch,</l>
+                  <l>He caus'd his meſs to be five times as much:</l>
+                  <l>So thus with him they ſumptuouſly did dine,</l>
+                  <l>And drank their fill, and merry were with wine.</l>
+               </lg>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>Being the</hi> xliv <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>Joſeph <hi>his brethren accuſe</hi>
+                     </l>
+                     <l>
+                        <hi>With theft: So they do not refuſe.</hi>
+                     </l>
+                     <l>
+                        <hi>If</hi> Benjamin <hi>ſhall home be ſent,</hi>
+                     </l>
+                     <l>Judah'l <hi>Suffer impriſonment.</hi>
+                     </l>
+                     <l>
+                        <hi>And will for ever, be a ſlave;</hi>
+                     </l>
+                     <l>
+                        <hi>His word and's Father's life to ſave.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>NOw <hi>Joſeph</hi> did Command, his Steward to fill</l>
+                  <l>Their Sacks with food; who did obey his will.</l>
+                  <l>Theſe men ſaid he, they may no longer tarry,</l>
+                  <l>Go fill their Sacks ſo full as they can carry:</l>
+                  <l>Let it be done, and ſee they nothing lack,</l>
+                  <l>And put again their Money in each Sack.</l>
+                  <l>When you have done, and all things are put up;</l>
+                  <l>Into the youngeſt, put my Silver Cup.</l>
+                  <pb n="29" facs="tcp:151349:20"/>
+                  <l>The Steward did for them, as he did ſay,</l>
+                  <l>And in the Morning they did haſt away:</l>
+                  <l>Now from the City far they were not gone,</l>
+                  <l>But <hi>Joſeph</hi> call'd unto his Steward anon:</l>
+                  <l>And ſaid unto him, haſt, and get thee up;</l>
+                  <l>Purſue the men, go fetch my Silver Cup:</l>
+                  <l>And ſay unto them, why do you ſo <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>As to requi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e the thus for my good will?</l>
+                  <l>Have you not taken my Lords Cup? for <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>He can Divine, and he can Propheſy.</l>
+                  <l>So when he over-took them<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> thus he ſaid,</l>
+                  <l>And they were troubl'd, and were ſore afraid</l>
+                  <l>Why doſt thou from my Lord ſuch tidings bring,</l>
+                  <l>Said they? the Lord forbid us ſuch a thing.</l>
+                  <l>Did we not bring the Money in our hand,</l>
+                  <l>Which in our Sacks we found, you underſtand.</l>
+                  <l>How ſhould we then preſume, or be ſo bold</l>
+                  <l>To ſteal out of his houſe, Silver or Gold?</l>
+                  <l>Lo, whomſoever has it, let him dye;</l>
+                  <l>And we will all be brought in ſlavery.</l>
+                  <l>Let it be ſo (the Steward to them did ſay)</l>
+                  <l>According to your words: I cannot ſtay;</l>
+                  <l>Wiſh whomſoever now the Cup is found,</l>
+                  <l>You ſhall be innocent, let him be bound.</l>
+                  <l>Then preſently they did their Sacks unlade;</l>
+                  <l>And from the Eldeſt to the Youngeſt, made</l>
+                  <l>A Search: and when they had their Sacks un<g ref="char:EOLhyphen"/>bound,</l>
+                  <l>In <hi>Benjamin's</hi> the Silver Cup was found</l>
+                  <pb n="30" facs="tcp:151349:21"/>
+                  <l>Ah! then they Rent their Cloaths, and every man</l>
+                  <l>Laded his Aſſe, and preſently began</l>
+                  <l>Towards the City, now to haſt amaine;</l>
+                  <l>Their Journey's ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aid, they muſt go back again!</l>
+                  <l>So <hi>Judah</hi> and his Brethren came near</l>
+                  <l>Their Brother <hi>Joſeph;</hi> for he yet was there:</l>
+                  <l>And ſtrait they ſell before him to the ground,</l>
+                  <l>With Dread and Fear which did ſo much abound:</l>
+                  <l>And <hi>Joſeph</hi> ſaid unto them thereupon,</l>
+                  <l>What is this Deed<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that you to me have done?</l>
+                  <l>Do you not know that ſuch a man as I</l>
+                  <l>Can certainly Divine and Propheſy?</l>
+                  <l>Then <hi>Judah</hi> ſaid, How ſhall we ſpeak a word?</l>
+                  <l>What ſhall we ſpeak, or ſay unto my Lord?</l>
+                  <l>Now God hath ſound out our great wickedneſs;</l>
+                  <l>We are thy Servants, thus he did expreſs:</l>
+                  <l>For ever let us to my Lord be Bound,</l>
+                  <l>Both we, &amp; he, with whom the Cup was ſound.</l>
+                  <l>But <hi>Joſeph</hi> made them anſwer, ſaying No;</l>
+                  <l>The Lord forbid (ſaid he) I ſhould do ſo:</l>
+                  <l>Let he which had it, be my Servant rather;</l>
+                  <l>But you depart in Peace unto your Father.</l>
+                  <l>Then <hi>Judah</hi> ſaid thus; and to him drew near,</l>
+                  <l>O let me ſpeak a word in my Lord's Ear;</l>
+                  <l>And let not Wrath be kindled in thy Heart,</l>
+                  <l>Againſt thy Servants; thou as <hi>Pharaoh</hi> art:</l>
+                  <l>My Lord did ask if we a Father had,</l>
+                  <l>Or any Brother; ſo we anſwer made,</l>
+                  <pb n="31" facs="tcp:151349:21"/>
+                  <l>We had a Father that was Grave and Old,</l>
+                  <l>And he a Son had with him, thus we told;</l>
+                  <l>And he alone was left him of his Mother:</l>
+                  <l>Begot in's Age, he and another Brother;</l>
+                  <l>And one is not; the other he above</l>
+                  <l>The reſt of us, moſt dearly do him love.</l>
+                  <l>Now thou didſt bid us bring him unto thee,</l>
+                  <l>When we did come again, thou might'ſt him ſee;</l>
+                  <l>But to my Lord thy Servants did Reply,</l>
+                  <l>If he ſhould leave his Father, he would die:</l>
+                  <l>And thou did'ſt ſay, Except you bring him me,</l>
+                  <l>Thy Servants never more thy Face ſhould ſee:</l>
+                  <l>So when we back unto our Father came,</l>
+                  <l>VVe did acquaint thy Servant of the ſame;</l>
+                  <l>But when our Father he had underſtood,</l>
+                  <l>He bid us turn again to buy ſome Food:</l>
+                  <l>VVe made him anſwer thus; we cannot go,</l>
+                  <l>Unleſs our Brother's with us, thou doſt know:</l>
+                  <l>But if he go not with us, we are ſure,</l>
+                  <l>That we ſhall ſee the Face of him no more.</l>
+                  <l>Then ſaid thy Servant, and our Father dear;</l>
+                  <l>You know my Wife two Sons to me did bear;</l>
+                  <l>And one of them (ſaid he) departed hence;</l>
+                  <l>I never heard of him, nor ſaw him ſince:</l>
+                  <l>And if you take this from me, that I have,</l>
+                  <l>You will, vvith ſorrow bring me to my Grave.</l>
+                  <l>Now therefore, vvhen I come to him, he'l ſee</l>
+                  <l>The Lad is left, and he is not vvith me;</l>
+                  <pb n="32" facs="tcp:151349:22"/>
+                  <l>His heart upon him, do ſo much depend,</l>
+                  <l>I know his Life vvill ſoon be at an end.</l>
+                  <l>Thus we our aged Father ſhall not ſave;</l>
+                  <l>But full of Grief, ſhall bring him to the Grave.</l>
+                  <l>Thy ſervant, I, am ſurety for the Child,</l>
+                  <l>That from him, he no way ſhould be exil'd;</l>
+                  <l>Saying, if I bring him not to thee, I'le never</l>
+                  <l>Come in thy fight; but bear the blame for ever:</l>
+                  <l>I pray thee, let me be thy ſervant then,</l>
+                  <l>And let the Lad go vvith his Bretheren.</l>
+                  <l>How can I go? I'le be thy ſervant, rather</l>
+                  <l>Than go to ſee this Evil of my Father.</l>
+               </lg>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. <hi>Being the</hi> xlv. <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>
+                        <hi>Now</hi> Joſeph, <hi>doth himſelf make known,</hi>
+                     </l>
+                     <l>
+                        <hi>His Brethren lovingly doth own;</hi>
+                     </l>
+                     <l>
+                        <hi>And for his Father without ſtay,</hi>
+                     </l>
+                     <l>
+                        <hi>Doth ſend his Brethren away:</hi>
+                     </l>
+                     <l>
+                        <hi>Whoſe Tidings</hi> Jacob <hi>did Revive,</hi>
+                     </l>
+                     <l>
+                        <hi>To hear his Son is yet alive,</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>THen <hi>Joſeph,</hi> he no longer could refrain,</l>
+                  <l>Before all them, that did with him remain;</l>
+                  <l>But being ſorely grieved in his Heart,</l>
+                  <l>He wept, and caus'd each man for to depart,</l>
+                  <pb n="33" facs="tcp:151349:22"/>
+                  <l>VVhil'ſt he revealed himſelf, in preſence then,</l>
+                  <l>There was no man beſides his Brethren:</l>
+                  <l>He Wept aloud: So that it did appear,</l>
+                  <l>That all the Houſe of <hi>Pharaoh</hi> they did hear;</l>
+                  <l>And to his Brethren then he thus did ſay,</l>
+                  <l>I am your Brother, whom you ſold away:</l>
+                  <l>Your brother <hi>Joſeph;</hi> you may Credit give:</l>
+                  <l>How do's my Father now? Do's he yet Live?</l>
+                  <l>But Fear and Grief in them was ſo redoubl'd,</l>
+                  <l>They could not ſpeak to him, they were ſo Troubl'd.</l>
+                  <l>Then <hi>Joſeph,</hi> he again to them did ſay,</l>
+                  <l>Come near to me my Bretheren, I pray;</l>
+                  <l>So they came near, and he again doth tell,</l>
+                  <l>I <hi>Joſeph</hi> am, whom you did hither ſell:</l>
+                  <l>Yet be not grieved, though this thing be true;</l>
+                  <l>It was the Lord that ſent me here, not you:</l>
+                  <l>Take heed therefore, in you there be no ſtrife;</l>
+                  <l>For God did ſend me here, to ſave your Life.</l>
+                  <l>There is but two Years, of this Famine paſt;</l>
+                  <l>But ſeven Years, this Scarcity will laſt:</l>
+                  <l>And there is five to come, wherein you'l ſee,</l>
+                  <l>No Earing nor no Harveſt there will be.</l>
+                  <l>VVherefore the Lord did ſend me to this Land,</l>
+                  <l>For to preſerve you, by his mighty Hand;</l>
+                  <l>And he hath made me Father, and a Lord</l>
+                  <l>To <hi>Pharaoh;</hi> thus his Power doth afford,</l>
+                  <l>To me this greatneſs: You now underſtand,</l>
+                  <l>I Ruler am throughout all <hi>Egypt</hi> Land.</l>
+                  <pb n="34" facs="tcp:151349:23"/>
+                  <l>Haſte you unto my Father now, and tell,</l>
+                  <l>Thus faith thy Son, that is alive and well;</l>
+                  <l>
+                     <hi>Joſeph</hi> thy Son, whom God hath made to be</l>
+                  <l>Ruler in <hi>Egypt:</hi> Come and dwell with me:</l>
+                  <l>And in the Land of <hi>Goſhen</hi> thou ſhalt dwell,</l>
+                  <l>'Tis near me, and all other doth excell.</l>
+                  <l>Thy Childrens Children whilſt this Famine laſt,</l>
+                  <l>Thy Heards &amp; Flocks, &amp; what ſoe're thou haſt;</l>
+                  <l>I may preſerve thee here, and may th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Cheriſh,</l>
+                  <l>Left in thoſe five Years Famine, thou ſhould'ſt periſh.</l>
+                  <l>And now my Brethren, you do ſee 'tis true,</l>
+                  <l>That it is I alone, that ſpeak to you:</l>
+                  <l>And tell my Father, he may come, and ſee</l>
+                  <l>My glory; and may here abide with me.</l>
+                  <l>Then on the neck of <hi>Benjamin</hi> his Brother,</l>
+                  <l>He wept; and ſo they wept upon each other:</l>
+                  <l>Moreover, he kiſt all his bretheren,</l>
+                  <l>And wept; and ſo they talked with him then.</l>
+                  <l>At length, this tidings unto <hi>Pharaoh</hi> came;</l>
+                  <l>He, and his houſe, are pleaſed with the ſame.</l>
+                  <l>And unto <hi>Joſeph, Pharaoh</hi> thus did ſay,</l>
+                  <l>Make haſt, and ſend thy bretheren away;</l>
+                  <l>That they from <hi>Canaan,</hi> may thy Father bring:</l>
+                  <l>He ſhall be welcome here, whil'ſt I am King.</l>
+                  <l>I'le give to him, the beſt of all the Land;</l>
+                  <l>The beſt that's here, ſhall be at his command.</l>
+                  <pb n="35" facs="tcp:151349:23"/>
+                  <l>And let them Chariots take, for all at home,</l>
+                  <l>That all their Wives and Children may come:</l>
+                  <l>Yea, let them come, and not regard their ſtuff;</l>
+                  <l>They ſhall not want, here they ſhall have e<g ref="char:EOLhyphen"/>nough.</l>
+                  <l>So <hi>Joſeph</hi> did for them, as he did ſay;</l>
+                  <l>And alſo, gave them Victuals for the way:</l>
+                  <l>And gave each man, a Change of Raiment then;</l>
+                  <l>But five, he gave his Brother <hi>Benjamin:</hi>
+                  </l>
+                  <l>Three hundr'd Silver pieces, alſo he</l>
+                  <l>Did give to him, that he his Love might ſee:</l>
+                  <l>And likewiſe, to his Father did preſent,</l>
+                  <l>Ten Aſſes laden, with the like he ſent;</l>
+                  <l>Ten more with Corn, and Meat; ſuch as was good</l>
+                  <l>To ſerve his Father by the way, for Food.</l>
+                  <l>So they departed; but he thus did ſay,</l>
+                  <l>See that you fall not out, now, by the way.</l>
+                  <l>Then they went up from <hi>Egypt,</hi> and did haſt;</l>
+                  <l>And to their Father then, they came at laſt;</l>
+                  <l>And unto him, this newes did quickly tell:</l>
+                  <l>
+                     <hi>Joſeph's</hi> alive (ſaid they) and he is well;</l>
+                  <l>And more then this, now thou ſhalt underſtand,</l>
+                  <l>He's Governor, and Lord of <hi>Egypt</hi> Land.</l>
+                  <l>But <hi>Jacob,</hi> in the leaſt, Cannot believe;</l>
+                  <l>His heart doth fail, he can no Credit give:</l>
+                  <l>They told him all, but ſtill his heart relent,</l>
+                  <l>Untill he ſaw the things, which <hi>Joſeph</hi> ſent</l>
+                  <l>To fetch him thence; his ſpirits did revive.</l>
+                  <l>It is enough (ſaid he) my ſon's alive.</l>
+                  <pb n="36" facs="tcp:151349:24"/>
+                  <l>
+                     <hi>Joſeph</hi> is yet alive, and now will I;</l>
+                  <l>I will go ſee my ſon, before I dye.</l>
+               </lg>
+            </div>
+            <div n="9" type="chapter">
+               <head>CAHP. IX. <hi>Being the</hi> xlvi. <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>Jacob <hi>doth preparation make;</hi>
+                     </l>
+                     <l>
+                        <hi>His</hi> Egypt <hi>Journey, now doth take:</hi>
+                     </l>
+                     <l>
+                        <hi>God by the way, to him appear;</hi>
+                     </l>
+                     <l>
+                        <hi>Bid's him go on, and nothing fear:</hi>
+                     </l>
+                     <l>
+                        <hi>And</hi> Joſeph <hi>doth his Father meet,</hi>
+                     </l>
+                     <l>
+                        <hi>In Goſhen; they each other greet.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>ANd <hi>Iſrael,</hi> Journeyed, with all he had</l>
+                  <l>To <hi>Berſheba;</hi> but there ſome ſtay he made;</l>
+                  <l>He, and his houſhold, while he there abode,</l>
+                  <l>Did ſacrifice unto the Lord, his God.</l>
+                  <l>And in a Viſion, while he yet was there,</l>
+                  <l>God call'd to him; who anſwer'd, I am here.</l>
+                  <l>I am the Lord, thy Father's did obey;</l>
+                  <l>Fear not to go to <hi>Egypt,</hi> he did ſay;</l>
+                  <l>I will there make of thee, a Nation great;</l>
+                  <l>And I will give thee there, a Princely ſeat;</l>
+                  <pb n="37" facs="tcp:151349:24"/>
+                  <l>I will be with thee, while thou there remain;</l>
+                  <l>I'le bring thee down, and bring thee up again:</l>
+                  <l>
+                     <hi>Joſeph</hi> ſhall put his hand upon thine eyes.</l>
+                  <l>Thus at <hi>Jehovahs</hi> word, he did ariſe;</l>
+                  <l>And all his ſons, they did prepare to carry</l>
+                  <l>Their Father thence, and did no longer tarry.</l>
+                  <l>Likewiſe, their Wives and Children that went,</l>
+                  <l>Rid in the Chariots then, that <hi>Pharaoh</hi> ſent.</l>
+                  <l>They took their Goods, and Cattle, they had got</l>
+                  <l>In <hi>Canaan,</hi> with them; ſo they left it not.</l>
+                  <l>And all his ſeed, with him to <hi>Egypt</hi> came;</l>
+                  <l>His ſons and daughters, I for bear to name:</l>
+                  <l>But all that came with him, both great and ſmall,</l>
+                  <l>From <hi>Canaan,</hi> were three-ſcore and ſix in all.</l>
+                  <l>Now <hi>Joſeph</hi> had two ſons, beſides thoſe men:</l>
+                  <l>So in the whole, they were three-ſcore and ten.</l>
+                  <l>Then <hi>Judah,</hi> he before to <hi>Joſeph</hi> ſent</l>
+                  <l>For to prepare a place; ſo <hi>Judah</hi> went.</l>
+                  <l>And <hi>Joſeph,</hi> with his Chariot, came to meet</l>
+                  <l>His Father; and in <hi>Goſhen,</hi> did him greet:</l>
+                  <l>Upon his neck he fell, and did imbrace;</l>
+                  <l>And wept upon each other, for a ſpace.</l>
+                  <l>And <hi>Iſrael</hi> ſaid to <hi>Joſeph,</hi> Let me dye,</l>
+                  <l>Now I have ſeen thy face; for, ſurely I,</l>
+                  <l>Have oft lamented for thee, very ſore;</l>
+                  <l>And did not think to ſee thee any more.</l>
+                  <l>Then <hi>Joſeph</hi> ſaid, to <hi>Pharaoh</hi> I will go;</l>
+                  <l>The truth of all things, to him I will ſhow;</l>
+                  <pb n="38" facs="tcp:151349:25"/>
+                  <l>That thee, and all thy houſe, are come to me</l>
+                  <l>From <hi>Canaan;</hi> he the truth of all ſhall ſee.</l>
+                  <l>That you are Shepheards, he ſhall underſtand;</l>
+                  <l>And that your Flocks, are brought unto this Land.</l>
+                  <l>And if that <hi>Pharaoh</hi> do of you inquire,</l>
+                  <l>To know your trade; if he of you deſire;</l>
+                  <l>Then you ſhall ſay, thy ſervants, of a truth,</l>
+                  <l>We have been Herdf-men ever from our youth,</l>
+                  <l>That in the Land of <hi>Goſhen,</hi> you may dwell; hate,</l>
+                  <l>Becauſe it doth all other far excel:</l>
+                  <l>Beſides, th' <hi>Egyptians</hi> they do Shepheards</l>
+                  <l>Throughout their Land; ſuch they abominate.</l>
+               </lg>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="39" facs="tcp:151349:25"/>
+               <head>CHAP. X. <hi>Being the</hi> xlvii <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>Joſeph <hi>doth his Breth'ren bring,</hi>
+                     </l>
+                     <l>
+                        <hi>And his Father, to the King:</hi>
+                     </l>
+                     <l>Pharaoh, Goſhen <hi>Land doth give;</hi>
+                     </l>
+                     <l>
+                        <hi>With conſent, they there ſhould live.</hi>
+                     </l>
+                     <l>Joſeph <hi>for them do provide,</hi>
+                     </l>
+                     <l>
+                        <hi>Whil'ſt with joy they there Reſide.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>THen <hi>Joſeph</hi> came to <hi>Pharaoh</hi> now, and told,</l>
+                  <l>My Father, and my Brethren, behold</l>
+                  <l>Are come to thee, with all that ere they have;</l>
+                  <l>There Heards and Flocks, that thou their Lives may ſave;</l>
+                  <l>They all are come from <hi>Canan,</hi> unto thee;</l>
+                  <l>And in the Land of <hi>Goſhen,</hi> now they be.</l>
+                  <l>And <hi>Joſeph</hi> took five of his Bretheren,</l>
+                  <l>And unto <hi>Pharaoh,</hi> did preſent them then:</l>
+                  <l>So <hi>Pharaoh,</hi> he enquir'd of their Trade;</l>
+                  <l>Thy Servants Shepherds are, they anſwer made:</l>
+                  <l>They ſaid, moreover, ſcarcity at home,</l>
+                  <l>Hath forc't thy Servants hither for to come:</l>
+                  <l>Thy Servants have no Paſture for our Sheep;</l>
+                  <l>We could in <hi>Canan,</hi> Sir, no longer keep;</l>
+                  <l>Now we intreat thee, therefore, let us dwell</l>
+                  <l>In th' Land of <hi>Goſhen;</hi> for, we like it well.</l>
+                  <l>Then <hi>Pharaoh</hi> ſpake to <hi>Joſeph</hi> thus, and ſaid,</l>
+                  <pb n="40" facs="tcp:151349:26"/>
+                  <l>Thy Father's Come I ſee, be not diſmaid;</l>
+                  <l>The Land of <hi>Egypt,</hi> is at thy Command;</l>
+                  <l>Give unto him, the chiefeſt of the Land:</l>
+                  <l>The Land of <hi>Goſhen,</hi> let him there abide,</l>
+                  <l>And ſee, that he of nothing be deny'd:</l>
+                  <l>If there be any of Activity,</l>
+                  <l>Over my Cattel, let them Rulers be:</l>
+                  <l>Then <hi>Joſeph</hi> alſo, did his Father bring,</l>
+                  <l>And ſet him in the Preſence of the King:</l>
+                  <l>So <hi>Jacob</hi> bleſt him, and to him did bow;</l>
+                  <l>And <hi>Pharaoh</hi> asked him, how old art thou?</l>
+                  <l>An hundred, and thirty yeares, <hi>(ſaid he)</hi>
+                  </l>
+                  <l>My Pilgrim years ſo few, and evil be,</l>
+                  <l>That I have not attain'd, it doth appear,</l>
+                  <l>Unto the years, that all my Fathers were;</l>
+                  <l>This being ſaid, he with an humble heart</l>
+                  <l>Took leave of <hi>Pharaoh</hi> then, and did depart:</l>
+                  <l>And <hi>Joſeph</hi> plac'd his Father, and did give,</l>
+                  <l>Poſſeſſions to his Bretheren, to live</l>
+                  <l>Within the beſt, and cheifeſt of the Land,</l>
+                  <l>In <hi>Ram'ſes</hi> then, as <hi>Pharaoh</hi> did Command.</l>
+                  <l>And <hi>Joſeph,</hi> there his Father Nouriſhed,</l>
+                  <l>His Brothers, and their Houſholds there with Bread,</l>
+                  <l>Now in the Land, the Famine waxed ſore;</l>
+                  <l>They had no Bread, for they had ſpent their ſtore:</l>
+                  <l>So that in <hi>Egypt</hi> great was the Complaint;</l>
+                  <l>And <hi>Canan,</hi> through Extreamity, did Faint.</l>
+                  <pb n="41" facs="tcp:151349:26"/>
+                  <l>And <hi>Joſeph</hi> took the money that he found</l>
+                  <l>In <hi>Egypt;</hi> for he there had many a pound,</l>
+                  <l>Which he receiv'd for Corn, that there was bought;</l>
+                  <l>To <hi>Pharaohs</hi> houſe to lay it up he brought:</l>
+                  <l>So then, when money in the Land did fail,</l>
+                  <l>Th' <hi>Egyptians</hi> did their Caſes thus be wail;</l>
+                  <l>And ſaid to <hi>Joſeph,</hi> Bread vvith us is ſcant;</l>
+                  <l>Why ſhould we in thy Preſence Die for vvant?</l>
+                  <l>Then bring your Cattel, <hi>Joſeph</hi> ſaid, and I</l>
+                  <l>Will give you Food for them, you may not die;</l>
+                  <l>So then, they brought their Cattel, and he gave</l>
+                  <l>Them Bread for them, their Lives thereby to ſave;</l>
+                  <l>For all their Heards of Cattel, and their Sheep;</l>
+                  <l>Which fed them for a year, and did them keep:</l>
+                  <l>But when that year was ended, then they came</l>
+                  <l>To him the next, and ſaid it is no ſhame</l>
+                  <l>For us, to tell, my Lord, we are bereft</l>
+                  <l>Of all vve have, that we have nothing left,</l>
+                  <l>Saving our Bodies, and our Ground, my Lord;</l>
+                  <l>We in thy ſight, can nothing elſe afford:</l>
+                  <l>Why ſhould vve Periſh under thy Command?</l>
+                  <l>Buy us for Bread; both we, and all our Land,</l>
+                  <l>And vve to <hi>Pharaoh,</hi> vvill be Servants bound;</l>
+                  <l>So that vve may have Seed to ſow the Ground,</l>
+                  <l>VVe may not Periſh vvhile this Famine laſt;</l>
+                  <l>Nor that our Land, it may not go to waſt.</l>
+                  <l>Then <hi>Joſeph</hi> bought for <hi>Pharaoh,</hi> all the Land</l>
+                  <l>of <hi>Egypt</hi> then, of the <hi>Egyptians</hi> Hand;</l>
+                  <pb n="42" facs="tcp:151349:27"/>
+                  <l>Becauſe the Famine vvas upon them fore,</l>
+                  <l>Each man did ſell their Land to him, therefore:</l>
+                  <l>So all was <hi>Pharaohs,</hi> and he did remove</l>
+                  <l>Thoſe men that Sold their Land, (the Truth to prove)</l>
+                  <l>From all their Dwellings, through the Land ſo vvide,</l>
+                  <l>Unto the Cities, there for to abide:</l>
+                  <l>But now the Prieſts, their Land, he did not buy,</l>
+                  <l>Becauſe they need not ſell their Lands; for why?</l>
+                  <l>Their Portion <hi>Pharaoh</hi> gave, did them releive;</l>
+                  <l>They did not ſell, vvhat he to them did give.</l>
+                  <l>Then <hi>Joſeph</hi> to the People thus did ſay,</l>
+                  <l>Behold, I now have bought you all this Day,</l>
+                  <l>And all your Land for <hi>Pharaoh;</hi> now vvith ſpeed,</l>
+                  <l>Go ſow your Ground; lo, here I give you Seed:</l>
+                  <l>And you ſhall give the fifth of your Encreaſe,</l>
+                  <l>To <hi>Pharaoh;</hi> but the fourth, you with Peace,</l>
+                  <l>You ſhall enjoy the fourth part to yeild</l>
+                  <l>Food for your ſelves, &amp; Seed to ſow each Field:</l>
+                  <l>And for your Houſholds it ſhall be for Meat,</l>
+                  <l>For all your VVives, and little Ones, to eat:</l>
+                  <l>Then they made anſwer, thou haſt ſav'd our Lives;</l>
+                  <l>Let us find Favour (both vve and our VVives)</l>
+                  <l>In my Lords ſight, and vve vvill Servants be</l>
+                  <l>To <hi>Pharaoh,</hi> and will ſerve him vvillinglie.</l>
+                  <l>And <hi>Joſeph</hi> made a Law, vvhich to this day,</l>
+                  <l>ſtands firm in <hi>Egypt</hi> never to Decay;</l>
+                  <l>That <hi>Pharaoh,</hi> he ſhould have of them the fifth</l>
+                  <l>of all, except the Prieſts; which vvas their Gift.</l>
+                  <pb n="43" facs="tcp:151349:27"/>
+                  <l>And <hi>Iſr'el,</hi> there did dwell in <hi>Egypt</hi> Land;</l>
+                  <l>The Land of <hi>Goſhen,</hi> vvas at his Command;</l>
+                  <l>He did poſſeſs it, and did multiply,</l>
+                  <l>And grew; and did encreaſe exceedingly:</l>
+                  <l>And <hi>Jacob,</hi> ſeventeen Years there did dwell</l>
+                  <l>Moſt ſumptuouſly, in Riches did excel:</l>
+                  <l>So that the Age of <hi>Jacob</hi> doth appear,</l>
+                  <l>To be an hundr'd fourty ſeven Year:</l>
+                  <l>Now, vvhen the time drew near, that he ſhould Die,</l>
+                  <l>He Call'd his Son to him; and ſaid, If I</l>
+                  <l>Have in thy ſight found Grace, let me command,</l>
+                  <l>That thou wilt put under my Thigh, thy Hand;</l>
+                  <l>Let me, my Son, thy Truth Rely upon;</l>
+                  <l>Lay me not here, vvhen I am Dead and gone:</l>
+                  <l>But vvhen I Die, then vvith my Fathers all,</l>
+                  <l>Bury me vvith them, in their Burial.</l>
+                  <l>And <hi>Joſeph</hi> anſwer'd him, and ſaid, I will</l>
+                  <l>Perform my Duty, thy mind to fullfil.</l>
+                  <l>But <hi>Iſr'el</hi> ſaid to <hi>Joſeph,</hi> Swear my Son,</l>
+                  <l>Thou vvilt perform my Will; So thereupon,</l>
+                  <l>
+                     <hi>Joſeph</hi> did Swear: And <hi>Iſr'el</hi> Worſhipped,</l>
+                  <l>And bow'd himſelf to him, upon the Bed.</l>
+               </lg>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="44" facs="tcp:151349:28"/>
+               <head>CHAP. XI. <hi>Being the</hi> lxviii. <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>
+                        <hi>Joſeph takes his Sons, and He,</hi>
+                     </l>
+                     <l>
+                        <hi>His ſick Father goes to ſee.</hi>
+                     </l>
+                     <l>Jacob, <hi>each of them doth Bleſs;</hi>
+                     </l>
+                     <l>
+                        <hi>Tells him of their good Succeſs:</hi>
+                     </l>
+                     <l>
+                        <hi>Propheſie, the promis'd Land,</hi>
+                     </l>
+                     <l>
+                        <hi>Will be Reſtor'd, by th' Almighty's Hand.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>NOw after this, to <hi>Joſeph</hi> ſpeedily,</l>
+                  <l>One came, &amp; ſaid, thy Father's like to Die:</l>
+                  <l>So <hi>Joſeph</hi> haſted, and he took with him,</l>
+                  <l>His two Sons, <hi>Manaſſeh</hi> and <hi>Ephraim.</hi>
+                  </l>
+                  <l>And alſo, one told <hi>Jacob</hi> thus, and ſaid,</l>
+                  <l>
+                     <hi>Joſeph</hi> is come to thee, be not diſmai'd;</l>
+                  <l>Then <hi>Iſr'el,</hi> when he had recover'd Strength,</l>
+                  <l>Got up, and ſate upon his Bed, at length;</l>
+                  <l>And ſaid to <hi>Joſeph,</hi> hear my Son I pray,</l>
+                  <l>What I ſhall ſpeak to thee, and what I ſay;</l>
+                  <l>The Lord Almighty, did to me appear,</l>
+                  <l>At <hi>Luz,</hi> in <hi>Canan,</hi> and did Bleſs me there;</l>
+                  <l>And afterwards, thus unto me he ſpake,</l>
+                  <l>And ſaid; Behold, I will thee fruitful make;</l>
+                  <l>I will thy People multiply (ſaid he)</l>
+                  <l>And I will make a Number great, of thee:</l>
+                  <l>I'le give to thee, and to thy Seed therefore,</l>
+                  <l>This Land; they ſhall poſſeſs for evermore:</l>
+                  <pb n="45" facs="tcp:151349:28"/>
+                  <l>And now thy Sons, which here are Born to thee</l>
+                  <l>In <hi>Egypt,</hi> thou ſhalt give them both to me;</l>
+                  <l>
+                     <hi>As Reuben,</hi> and as <hi>Simeon,</hi> they are mine;</l>
+                  <l>But all thy Iſſue after, ſhall be thine.</l>
+                  <l>Now, vvhen I came from <hi>Padan,</hi> in the Land</l>
+                  <l>Of <hi>Canan, Rachel</hi> Dy'd upon my hand;</l>
+                  <l>When I from <hi>Ephrah,</hi> vvanted half a day;</l>
+                  <l>And there I did her Bury, by the way.</l>
+                  <l>Then <hi>Iſr'el, Joſeph's</hi> Sons did there eſpie,</l>
+                  <l>He lookt on them, as they were ſtanding by;</l>
+                  <l>And asked <hi>Joſeph,</hi> ſaying, Whoſe are theſe?</l>
+                  <l>And <hi>Joſeph</hi> ſaid, my Sons, vvhom God doth pleaſe</l>
+                  <l>To ſpare alive, His bleſſings I may ſee;</l>
+                  <l>They are my Sons, whom God hath given me.</l>
+                  <l>Then <hi>Iſr'el</hi> ſaid, before thou take them hence,</l>
+                  <l>Let me my Bleſſing, on them both diſpence;</l>
+                  <l>Now <hi>Iſrael</hi> with ſickneſs, he did Sage;</l>
+                  <l>His ſight did fail, by Reaſon of his Age:</l>
+                  <l>Then <hi>Joſeph</hi> brought them him; and for a ſpace,</l>
+                  <l>He there did Kiſs them, and did them Embrace.</l>
+                  <l>And then he ſaid to <hi>Joſeph,</hi> I ne'r thought,</l>
+                  <l>To ſee thy Face; but God to paſs hath brought,</l>
+                  <l>That he hath alſo, ſhewed my thy Seed:</l>
+                  <l>The Lord our God, is Merciful indeed.</l>
+                  <l>Then <hi>Joſeph,</hi> from his Fathers Knees did take</l>
+                  <l>His Sons, and did Obeiſance to him make:</l>
+                  <l>And <hi>Ephraim,</hi> then he took in his Right hand,</l>
+                  <l>Towards his Fathers Left as he did ſtand:</l>
+                  <l>And alſo, took <hi>Manaſſeh</hi> in his Left,</l>
+                  <l>Next <hi>Iſr'el's</hi> Right hand, not to be bereft,</l>
+                  <pb n="46" facs="tcp:151349:29"/>
+                  <l>Nor miſſe his Right-hand Bleſſing, thus he thought.</l>
+                  <l>Then to his Father, both of them he brought;</l>
+                  <l>But <hi>Iſr'el,</hi> his Right Hand he did Convey,</l>
+                  <l>And upon <hi>Ephraims</hi> Head, he did it Lay;</l>
+                  <l>And laid his Left Hand then, upon the other;</l>
+                  <l>Upon <hi>Manaſſeh's</hi> Head, The Elder Brother,</l>
+                  <l>And Bleſſed <hi>Joſeph,</hi> ſaying, God, before</l>
+                  <l>Whom all my Fathers Walk't, and did Adore,</l>
+                  <l>Whom <hi>Abraham,</hi> and <hi>Iſaac,</hi> did obey,</l>
+                  <l>And he that hath preſerv'd me, to this day;</l>
+                  <l>The Angel, which Redeem'd me from all ill,</l>
+                  <l>Now Bleſs the Lad's, and let my Name be ſtill</l>
+                  <l>On them; and let my Father's Names alſo,</l>
+                  <l>Be upon them; and alſo let them grow</l>
+                  <l>Unto a Multitude, ſo great by Birth;</l>
+                  <l>Their dwelling, in the mid'ſt of all the Earth.</l>
+                  <l>But now, when <hi>Joſeph</hi> ſaw on <hi>Ephraim,</hi>
+                  </l>
+                  <l>His Father's Right hand, it diſpleaſed him;</l>
+                  <l>And ſought for to remove it thence, upon</l>
+                  <l>
+                     <hi>Manaſſes</hi> Head, which was the Eldeſt Son;</l>
+                  <l>And <hi>Joſeph,</hi> to his Father, thus did ſay,</l>
+                  <l>This is the firſt-Born, move thy hand, I pray;</l>
+                  <l>But <hi>Iſr'el,</hi> he refus'd, and ſaid; I know,</l>
+                  <l>It is my Son, yet I will not do ſo;</l>
+                  <l>Of him, I know, a People great ſhall be;</l>
+                  <l>But <hi>Ephrahim,</hi> ſhall be greater far, than he:</l>
+                  <l>So thus he did them bleſs, upon that day;</l>
+                  <l>And ſaid, In thee, <hi>Iſr'ael</hi> ſhall bleſs, and ſay;</l>
+                  <pb n="47" facs="tcp:151349:29"/>
+                  <l>The Lord make thee as great, as <hi>Ephraim;</hi>
+                  </l>
+                  <l>Before <hi>Mannaſſeh,</hi> thus preferred him.</l>
+                  <l>Then <hi>Iſr'el</hi> ſaid to <hi>Joſeph,</hi> I ſhall die;</l>
+                  <l>But God is with you, and will not deny</l>
+                  <l>His gracious Promiſe; but his mighty hand,</l>
+                  <l>ſhall bring you hence, unto your Fathers Land;</l>
+                  <l>And I a bleſſing more, hath given thee,</l>
+                  <l>Then all thy Brethren now which living be;</l>
+                  <l>That I took from the <hi>Amorite,</hi> my Foe;</l>
+                  <l>I got it vvith my Sword, and vvith my Bow.</l>
+               </lg>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII. <hi>Being the</hi> xlix. <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>Jacob <hi>his Sons to him, doth Call;</hi>
+                     </l>
+                     <l>
+                        <hi>Pronounce his Bleſſings on them all;</hi>
+                     </l>
+                     <l>
+                        <hi>And giveth them, a ſtrict Command,</hi>
+                     </l>
+                     <l>
+                        <hi>To Bury him, in's Native Land;</hi>
+                     </l>
+                     <l>
+                        <hi>Where all his Father's they do Lie:</hi>
+                     </l>
+                     <l>
+                        <hi>So, makes a Bleſſed end, and Die.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>NOw <hi>Jacob</hi> Call'd his Sons, and thus did ſay,</l>
+                  <l>Gather your ſelves together now, I pray;</l>
+                  <l>That I may now unfold to you (he ſayes)</l>
+                  <l>What ſhall befall you, in the latter dayes:</l>
+                  <l>Gather your ſelves together. I may tell;</l>
+                  <l>Come near, and hear your Father <hi>Iſrael.</hi>
+                  </l>
+                  <pb n="48" facs="tcp:151349:30"/>
+                  <l>
+                     <hi>RUben,</hi> my Eldeſt Son, my Chief Delight;</l>
+                  <l>The firſt beginning of my Strength and might;</l>
+                  <l>The Excellency of high Dignitie</l>
+                  <l>And of Power, do both belong to thee:</l>
+                  <l>But now, thou art as unſtable, as Water;</l>
+                  <l>And thou ſhalt not be excellent hereater;</l>
+                  <l>Becauſe thou did'ſt defile thy Fathers bed,</l>
+                  <l>Thy Power and Dignity is from thee fled:</l>
+                  <l>Thou did'ſt defile my Couch; and thereupon,</l>
+                  <l>Thy Honour and thy Dignity, is gone.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>SImeon,</hi> and <hi>Levy,</hi> Bretheren in Ill,</l>
+                  <l>The Inſtruments of Cruelty, are ſtill</l>
+                  <l>Within their Habitations I do fear;</l>
+                  <l>O thou my Soul, their Secrets come not near;</l>
+                  <l>Nor let my Honour now, with them be Joyn'd;</l>
+                  <l>With their Aſſembly, be not thou Confin'd;</l>
+                  <l>For, in their griev'ous VVrath, a Man they Slew;</l>
+               </lg>
+               <lg>
+                  <l>And, b'ing ſelf-will'd, a VVall they overthrew:</l>
+                  <l>O Curſed be their VVrath, for it vvas fierce;</l>
+                  <l>Their Cruelty, too cruel to expreſs;</l>
+                  <l>Wherefore, in <hi>Jacob,</hi> I vvill them divide,</l>
+                  <l>And ſcatter them, in <hi>Iſrael</hi> ſo vvide.</l>
+               </lg>
+               <lg>
+                  <l>BUt <hi>Judah,</hi> all thy Brethren, thee ſhall praiſe,</l>
+                  <l>And ſhall be ſubject to thee all their dayes;</l>
+                  <l>Upon thy En'mies Neck, thy hand ſhall be;</l>
+                  <l>Thy Fathers Sons ſhall all bovv dovvn to thee;</l>
+                  <pb n="49" facs="tcp:151349:30"/>
+                  <l>And as a Lyon, ſhall come from the Spoyle:</l>
+                  <l>My Son, he ſhall lie down and Couch a vvhile:</l>
+                  <l>And as a Lyonneſs, ſhall ſo remain;</l>
+                  <l>And vvho ſhall dare to ſtir him up again?</l>
+                  <l>The Scepter ſhall not part from <hi>Judah's</hi> home;</l>
+                  <l>Nor a Lavv-giver, until <hi>Shiloh</hi> Come:</l>
+                  <l>To him, all People ſhall be gathered;</l>
+                  <l>His People, vvhich throughout the Earth are ſpread:</l>
+               </lg>
+               <lg>
+                  <l>He ſhall his Aſſe-Fole bind unto the Vine;</l>
+                  <l>And vvaſh his Garments, in the Choyſeſt Wine;</l>
+                  <l>His Eyes vvith Wine, they likewiſe ſhall be red;</l>
+                  <l>His Teeth vvith Milk, they ſhall be vvhitened.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>ZEbulun,</hi> he by the Sea-ſide ſhall dwell;</l>
+                  <l>His Haven, for Rich Shipping ſhall excell;</l>
+                  <l>And flouriſhing ſo ſplendidly in order,</l>
+                  <l>Quite unto <hi>Zidon,</hi> there ſhall be his border.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>ISſachar,</hi> he as a ſtrong Aſſe ſhall be,</l>
+                  <l>Couching between two burdens; &amp; ſhall ſee,</l>
+                  <l>That Reſt is good to him; and that the Land</l>
+                  <l>Is good and pleaſant, he ſhall underſtand;</l>
+                  <l>And he to bear, his ſhoulder he ſhall bow,</l>
+                  <l>And ſhall be ſubject, Tribute to allow.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>DAn,</hi> he ſhall Judge his People, and excel</l>
+                  <l>In Honour, like a Tribe of <hi>Iſrael:</hi>
+                  </l>
+                  <l>
+                     <hi>Dan,</hi> he ſhall be a Serpent by the vvay,</l>
+                  <l>An Adder by the Path, vvhich in the day,</l>
+                  <pb n="50" facs="tcp:151349:31"/>
+                  <l>To bite the Horſe-heeles ſubtily ſhall Craul,</l>
+                  <l>To make him ſtumble, and his Rider fall.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Jacob,</hi> vvith this heavenly Salutation,</l>
+                  <l>Cri'd out; O Lord, I vvait for thy Salvation!</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>GAd,</hi> he, an Hoſt of men ſhall lay him vvaſt;</l>
+                  <l>But he ſhall overcome them, at the laſt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>ASher,</hi> he ſhall abound in every thing,</l>
+                  <l>And ſhall have Pleaſure, that befits a King.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>NAphtali</hi> ſhall be let looſe, as a Hinde.</l>
+                  <l>And giving fair, and goodly words, moſt kind.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>JOſeph,</hi> he ſhall be like a fruitful Bough,</l>
+                  <l>Which by a well's ſide, fruitfully doth grow;</l>
+                  <l>His tender Boughs, and pleaſant Branches, all,</l>
+                  <l>Shall grow and ſpread, and run upon the wall:</l>
+                  <l>The Archers grieved him, and at him ſhot;</l>
+                  <l>And though they hated him, they hit him not;</l>
+                  <l>But ſtill his bow, and hands, in ſtrength abode;</l>
+                  <l>His Armes were ſtrengthen'd, by the mighty God:</l>
+                  <l>Of whom is the chief Stone of <hi>Iſrael;</hi>
+                  </l>
+                  <l>That Rich, and precious ſtone, that doth excel:</l>
+                  <l>Ev'en by thy Father's God, who will thee love,</l>
+                  <l>And will thee bleſs with bleſſings from above;</l>
+                  <l>With bleſſings here beneath that are to Come;</l>
+                  <l>VVith bleſſings of the Breaſts, &amp; of the VVomb:</l>
+                  <l>The bleſſings of thy Father, hath not fail'd;</l>
+                  <l>But far above his Elders, hath prevail'd;</l>
+                  <pb n="51" facs="tcp:151349:31"/>
+                  <l>To th' utmoſt bounds of th' everlaſting Hills</l>
+                  <l>On <hi>Joſeph's</hi> Head, they him with honour fills;</l>
+                  <l>Upon the Head of him, he that was hated;</l>
+                  <l>He that was from his Breth'ren, ſeparated.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>BEnjamin,</hi> he ſhall Ravine in the day;</l>
+                  <l>And in the Morning, ſhall devour the Prey:</l>
+                  <l>Like to a fierce Wolfe, he at Eventide,</l>
+                  <l>The ſpoile which he hath taken, ſhall divide.</l>
+               </lg>
+               <lg>
+                  <l>ALL theſe, are the twelve Tribes of <hi>Iſrael;</hi>
+                  </l>
+                  <l>And this is that, their Father did them tell;</l>
+                  <l>With ſev'ral Bleſſings, each of them did bleſs:</l>
+                  <l>And afterwards, thus to them did expreſs;</l>
+                  <l>I now am ready to be Gathered,</l>
+                  <l>Unto my People now, when I am Dead,</l>
+                  <l>Bury me with my Fathers in the Cave;</l>
+                  <l>In <hi>Ephrons</hi> Field (the <hi>Hittite,)</hi> make my Grave,</l>
+                  <l>VVhich is before <hi>Mamre,</hi> in <hi>Canan</hi> Land;</l>
+                  <l>
+                     <hi>Abr'ham,</hi> he bought the ſame of <hi>Ephron's</hi> hand:</l>
+                  <l>He and his Wife, they both were buri'd there:</l>
+                  <l>There <hi>Iſaac,</hi> and <hi>Rebeckah,</hi> buri'd were:</l>
+                  <l>And there I buri'd <hi>Leah,</hi> after Death:</l>
+                  <l>The Field was Purchas'd of the Seed of <hi>Heth.</hi>
+                  </l>
+                  <l>Thus <hi>Jacob</hi> made an end of giving charge</l>
+                  <l>Unto his Sons, his mind hath ſpoke at large;</l>
+                  <l>And then, ſubmitting to the Lord of Hoſt,</l>
+                  <l>Pluck't up his Feet, and yeilded up the Ghoſt.</l>
+               </lg>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="52" facs="tcp:151349:32"/>
+               <head>CHAP. XIV. <hi>Being</hi> L. <hi>of</hi> Geneſis.</head>
+               <argument>
+                  <head>The Argument.</head>
+                  <lg>
+                     <l>
+                        <hi>Now</hi> Joſeph, <hi>he doth with great Care,</hi>
+                     </l>
+                     <l>
+                        <hi>His Father's Funeral prepare.</hi>
+                     </l>
+                     <l>
+                        <hi>Interrs him in his Native Land,</hi>
+                     </l>
+                     <l>
+                        <hi>As</hi> Iſrael <hi>did him Command:</hi>
+                     </l>
+                     <l>
+                        <hi>So he, and all the Royal Train,</hi>
+                     </l>
+                     <l>
+                        <hi>Returns to</hi> Egypt <hi>back again.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>THen <hi>Joſeph</hi> fell upon his Fathers Face,</l>
+                  <l>And Wept; and his dead Corpes he did Embrace:</l>
+                  <l>And the Phyſitians, that with him did dwell,</l>
+                  <l>They did imbalm his Father <hi>Iſrael.</hi>
+                  </l>
+                  <l>When Fourty dayes of Mourning were per<g ref="char:EOLhyphen"/>form'd,</l>
+                  <l>So long they Mourn'd for them, that were Im<g ref="char:EOLhyphen"/>balm'd;</l>
+                  <l>But th' <hi>Egyptians,</hi> they did him bewail,</l>
+                  <l>Seventy Days, their Mourning did not fail:</l>
+                  <l>And when the days of Mourning, all were paſt,</l>
+                  <l>
+                     <hi>Joſeph,</hi> he ſpake to <hi>Pharoah's</hi> Houſe, at laſt;</l>
+                  <l>And ſaid, If I have Favour found, I pray,</l>
+                  <l>Speak in the Ears of <hi>Pharoah</hi> now, and ſay;</l>
+                  <l>My <hi>Father,</hi> he did make me to him Swear,</l>
+                  <l>To bear him hence, and not to lay him here;</l>
+                  <pb n="53" facs="tcp:151349:32"/>
+                  <l>But in his Grave, which is in <hi>Canaan</hi> Land;</l>
+                  <l>To lay him there, he gave a great Command:</l>
+                  <l>And therefore, let me now intreat of thee,</l>
+                  <l>That this his will, may be fullfill'd by me.</l>
+                  <l>Then <hi>Pharoah</hi> ſaid, go, and not lay him here;</l>
+                  <l>Perform thy Oath, as he did make thee Swear.</l>
+                  <l>So <hi>Joſeph,</hi> with great diligence, and care,</l>
+                  <l>A ſtately Funeral, he did prepare;</l>
+                  <l>And with, him, went the Chief of all the Land.</l>
+                  <l>All <hi>Pharoah's</hi> houſe, they were at his Command:</l>
+                  <l>Likewiſe, his own houſe, and his Bretheren,</l>
+                  <l>And all his Fathers houſe went with him then;</l>
+                  <l>Only the Children ſmall, it was his mind;</l>
+                  <l>Their Sheep, and Cattel, ſuch to leave behind:</l>
+                  <l>Chariots he took, and Horſemen ſumptuouſly;</l>
+                  <l>VVith him, went an exceeding Company.</l>
+                  <l>Now, when they came to <hi>Atads</hi> threſhing floor,</l>
+                  <l>VVhich is beyond <hi>Jordan,</hi> they Mourned ſore;</l>
+                  <l>VVith grievous Lamentation, there they ſtays,</l>
+                  <l>And Mourned for his Father, ſeven dayes.</l>
+                  <l>And when the <hi>Canaanites</hi> of all the Land,</l>
+                  <l>Their Mourning ſaw, amaz'd they all did ſtand:</l>
+                  <l>And afterwards, 'twas call'd throughout their Nation,</l>
+                  <l>Th' <hi>Egyptians</hi> place of grievous Lamentation:</l>
+                  <l>So thus his ſons, as he did them Command,</l>
+                  <l>VVith care, interr'd him in his Native Land.</l>
+                  <l>And <hi>Joſeph</hi> he returned back again</l>
+                  <l>To <hi>Egypt;</hi> he, and all the Royal Train.</l>
+                  <pb n="54" facs="tcp:151349:33"/>
+                  <l>Now, when his breth'ren, ſaw their father dead,</l>
+                  <l>They were afraid, and ſorely troubled;</l>
+                  <l>And ſaid, it may be <hi>Joſeph</hi> will us hate;</l>
+                  <l>Now our Father's dead, hard is our fate:</l>
+                  <l>Our former treſpaſs he'l remember ſtill,</l>
+                  <l>And Juſtly may requite us now with ill.</l>
+                  <l>Therefore they ſent to <hi>Joſeph,</hi> and did ſay,</l>
+                  <l>Pardon our former treſpaſſe now we pray:</l>
+                  <l>It 'twas our father's will, while he did live,</l>
+                  <l>The Sin we did Commit, thou ſhould'ſt forgive.</l>
+                  <l>Let not thy heart againſt us now be hardn'd,</l>
+                  <l>But let that ſin we did commit, be pardon'd.</l>
+                  <l>This meek requeſt, made <hi>Joſeph's</hi> heart relent;</l>
+                  <l>He wept, and ſaid, be you not diſcontent.</l>
+                  <l>Then all his breth'ren fell upon their knee,</l>
+                  <l>To him, and ſaid, Lo, we thy Servants be.</l>
+                  <l>And <hi>Joſeph</hi> ſaid, am I not under God?</l>
+                  <l>Do I not know that Vengeance hath a rod?</l>
+                  <l>When you thought ill, God turn'd the ſame to good</l>
+                  <l>To ſave your lives, you ſince have underſtood.</l>
+                  <l>Fear not now therefore, I will nouriſh you,</l>
+                  <l>Your Wives and Children, as I ought to do.</l>
+                  <l>Thus he did Comfort them, and told his mind,</l>
+                  <l>And Spake to them moſt Lovingly and Kind;</l>
+                  <l>Now <hi>Joſeph</hi> he in <hi>Egypt</hi> ſtill did dwell,</l>
+                  <l>His Fathers houſe likewiſe there lived well:</l>
+                  <l>And <hi>Joſeph Ephr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ims</hi> Sons he there did ſee,</l>
+                  <l>His Childrens Children to the third Degree.</l>
+                  <l>Likewiſe the Sons Sons of <hi>Manaſſeh</hi> were</l>
+                  <l>Brought unto <hi>Joſeph's</hi> knees as doth appear:</l>
+                  <pb n="55" facs="tcp:151349:33"/>
+                  <l>Then <hi>Joſeph</hi> ſaid unto his Bretheren,</l>
+                  <l>I now ſhall die, and God will ſurely then</l>
+                  <l>Viſit you: And will by his mighty hand</l>
+                  <l>Bring you from hence; unto your promis'd land,</l>
+                  <l>Which he t' <hi>Abraham</hi> and to <hi>Iſaac</hi> ſware,</l>
+                  <l>And unto <hi>Jacob</hi> that he would prepare.</l>
+                  <l>And <hi>Joſeph</hi> made them ſwear, and ſaid, this do</l>
+                  <l>My Bretheren: When God ſhall viſit you,</l>
+                  <l>Carry my bones with you; do not diſpence</l>
+                  <l>With them in <hi>Egypt,</hi> bear them with you hence.</l>
+                  <l>So <hi>Joſeph</hi> he in <hi>Egypt</hi> died, when</l>
+                  <l>His age it was an hundet'd years and ten,</l>
+                  <l>And was embalm'd, and put into his Cheſt;</l>
+                  <l>
+                     <hi>Joſeph</hi> is gone to everlaſting reſt:</l>
+                  <l>Glory to God, who is enthron'd on high,</l>
+                  <l>Sing praiſes to his heavenly Majeſty:</l>
+                  <l>Angels and men his holy Name adore,</l>
+                  <l>And <hi>Hallelujah</hi> Sing for evermore.</l>
+                  <l>
+                     <hi>Amen.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="poems">
+            <div type="song">
+               <head>The Bleſſed Virgins Song, <hi>Luke 1.</hi> Beginning at the 46 verſe</head>
+               <lg>
+                  <l>MY Soul doth praiſe the Lord with meek be<g ref="char:EOLhyphen"/>haviour,</l>
+                  <l>My ſpirit doth rejoyce in God my Saviour:</l>
+                  <l>He hath regarded now the Low eſtate</l>
+                  <l>Of his Hand-Maiden, happy is my fate:</l>
+                  <pb n="56" facs="tcp:151349:34"/>
+                  <l>For now behold henceforth 't will be expreſt,</l>
+                  <l>All generations ſtill ſhall call me bleſt:</l>
+                  <l>For he that is Almighty, he hath done</l>
+                  <l>To me great things, who is the Holy One.</l>
+                  <l>His mercies are on them that do him fear;</l>
+                  <l>From age to age his goodneſs doth appear.</l>
+                  <l>He ſtrength hath ſhewed with his mighty Arm,</l>
+                  <l>The proud to ſcatter that imagin harm;</l>
+                  <l>He hath put down the mighty now I ſee,</l>
+                  <l>And hath exalted them of low degree:</l>
+                  <l>He hath the hungry fill'd (which go aſtray)</l>
+                  <l>With good: the rich hath empty ſent away.</l>
+                  <l>And he hath help'd his ſervant <hi>Iſrael.</hi>
+                  </l>
+                  <l>In his abounding mercy that excell:</l>
+                  <l>As he ſpake to our Father's heretofore,</l>
+                  <l>To <hi>Abr'ham</hi> and his ſeed for evermore.</l>
+                  <l>
+                     <hi>Hallelujah.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>His Lamentation, beholding</hi> London <hi>and</hi> Weſt<g ref="char:EOLhyphen"/>minſter, <hi>upon the new</hi> Monument,</head>
+               <lg>
+                  <l>VVHich now is rais'd and built, near to the place</l>
+                  <l>That <hi>dreadful fire</hi> firſt began it's race;</l>
+                  <l>Which for the ſpace of <hi>four dayes</hi> did Burn,</l>
+                  <l>And did our City into Aſhes turn;</l>
+                  <l>And now ſucceeding Ages may remember,</l>
+                  <l>To bear in mind the ſecond of <hi>September:</hi>
+                  </l>
+                  <pb n="57" facs="tcp:151349:34"/>
+                  <l>It has a Golden top reſembl'ng Fire,</l>
+                  <l>That all Spectators far and near admire:</l>
+                  <l>And 'tis for Height, ſo Stately to behold,</l>
+                  <l>Above an hundr'd Paces three times told.</l>
+                  <l>Upon this ſumptuous Pillar I did ſtand,</l>
+                  <l>And thus bewail'd the Glory of the Land:</l>
+               </lg>
+               <lg>
+                  <l>Behold thoſe Cities, how they do abound</l>
+                  <l>With Sodomires: How they are compaſs'd round,</l>
+                  <l>And how with <hi>Zion</hi> they do both reſide,</l>
+                  <l>Stiff, neck'd and Haughty, and pufft up with pride;</l>
+                  <l>Like to the Daughters of <hi>Jeruſalem,</hi>
+                  </l>
+                  <l>Our City-Dames may be compar'd to them;</l>
+                  <l>With wanton dreſſes, each of them bedecks,</l>
+                  <l>And walking daily with forth-ſtretched necks.</l>
+                  <l>How unbecoming Chriſtians, how unmeet</l>
+                  <l>They walk, and make a tinkling with their feet!</l>
+                  <l>Alas! theſe Cities! may not we with ſorrow,</l>
+                  <l>Compare them both to <hi>Sodom</hi> and <hi>Gomorrah:</hi>
+                  </l>
+                  <l>The greateſt ſins that were committed there,</l>
+                  <l>The ſame, if not far worſe, are acted here.</l>
+                  <l>For why, we ſin againſt a greater Light,</l>
+                  <l>Living in wanton pleaſures day and night.</l>
+                  <l>Alas! I fear, of us it may be ſaid,</l>
+                  <l>We worſe than <hi>Sodom</hi> have the wanton play'd.</l>
+                  <l>Both great and ſmall profane thy Name O God,</l>
+                  <l>Yet thou art mercifull, and ſpares thy Rod.</l>
+                  <l>Let not thy gracious mercies ſtop our ears,</l>
+                  <l>But fill our hearts with Grief, our Eyes with Tears,</l>
+                  <l>We may in Sack-cloath weep both day and night,</l>
+                  <l>And each of us become a <hi>Ninivite.</hi>
+                  </l>
+                  <pb n="58" facs="tcp:151349:35"/>
+                  <l>Lord, when thy ſervant <hi>Jonah</hi> thou hadſt ſent</l>
+                  <l>To <hi>Niniveh,</hi> how ſoon they did repent?</l>
+                  <l>Let <hi>Jonah</hi> Lord to us ſuch tidings bring,</l>
+                  <l>We may Lament with <hi>Niniveh</hi>'s great King.</l>
+                  <l>And to appeaſe thy Judgements, let us haſt</l>
+                  <l>To put on Sack-cloath, and proclaime a Faſt:</l>
+                  <l>For who can tell, if God will ſpare our City;</l>
+                  <l>Our ſins are great, how can he ſhew us pity?</l>
+                  <l>O Lord forgive our ſins, for they are many;</l>
+                  <l>And if within our Cities there are any,</l>
+                  <l>That loves thy Goſpel, and do fear thy Name,</l>
+                  <l>Let them be Pillars to ſupport the ſame;</l>
+                  <l>We may not Lord be ſwallow'd up as <hi>Korah,</hi>
+                  </l>
+                  <l>Nor be deſtroy'd as <hi>Sodom</hi> and <hi>Gomorrah:</hi>
+                  </l>
+                  <l>O let thy Goſpel flouriſh, and remain</l>
+                  <l>Amongſt us: let it not be Preacht in vain,</l>
+                  <l>Left in the end, we ſhould become as thoſe</l>
+                  <l>On whom thou did'ſt pronounce thy dreadfull woes;</l>
+                  <l>Who did revile our bleſſed Lord and Saviour,</l>
+                  <l>His glorious teaching, and his meek behaviour:</l>
+                  <l>Who doubtleſs Suffers now his dreadfull ire,</l>
+                  <l>The wofull Vengeance of eternall fire.</l>
+                  <l>O let us not be Citizens with them!</l>
+                  <l>Let's be a Type of new <hi>Jeruſalem</hi>
+                  </l>
+                  <l>Build up our places waſt and deſolate,</l>
+                  <l>Write Holineſs t'thy Self upon each gate:</l>
+                  <l>O let our gates with righteouſneſs be ba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'d,</l>
+                  <l>And let thy Holy Angels be our guard!</l>
+                  <l>Let <hi>Abraham</hi> intreat for us, and pray;</l>
+                  <l>And Let juſt Lot within our Cities ſtay:</l>
+                  <pb n="59" facs="tcp:151349:35"/>
+                  <l>Let Righteouſneſs and Peace each other greet,</l>
+                  <l>And like a mighty ſtream run down each-ſtreet,</l>
+                  <l>Then ſhall we, Lord, thy holy Word imbrace;</l>
+                  <l>Then ſhall we ever be a Holy Place:</l>
+                  <l>A place of Mirth in Singing Pſalmes and Hymns,</l>
+                  <l>And Heavenly Anthems to th' King of Kings.</l>
+                  <l>Haſten us Lord, our feet may ſwiftly run</l>
+                  <l>The way of peace, ſo ſhall thy will be done;</l>
+                  <l>We may thy glorious Majeſty adore,</l>
+                  <l>And Sing thy praiſes Lord, for evermore.</l>
+                  <l>
+                     <hi>Amen.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Make haſte O Lord, let this thy will be done,</l>
+                  <l>And haſt the Kingdom of thy bleſſed Son;</l>
+                  <l>And let us watch, and not aſleep be found,</l>
+                  <l>When thy Arch-Angels ſhall thy Trumpets ſound,</l>
+                  <l>To raiſe the dead O Lord, both ſmall and great,</l>
+                  <l>For to appear before thy Judgement-ſeat:</l>
+                  <l>Yea, when thy Trumpets ſound, the dead ſhall riſe,</l>
+                  <l>All mortalls ſhall come to this great Aſſize;</l>
+                  <l>The Moon ſhall loſe his light, the ſtars ſhall fall</l>
+                  <l>From heaven; Lord, at this thy dreadfull Call</l>
+                  <l>The Element ſhall melt! and with a noiſe,</l>
+                  <l>Shall paſs away at dread <hi>Jehovah's</hi> voice!</l>
+                  <l>And then with Power and glory ſhining Clear,</l>
+                  <l>The Son of Man ſhall in the clouds appear;</l>
+                  <l>Whoſe glory ſhines ſo glorious, and ſo bright,</l>
+                  <l>The Sun ſhall turn to blood, and loſe its light:</l>
+                  <l>And then the Tribes of all the earth ſhall mourn</l>
+                  <l>With dreadfull fear, to ſee the Heavens burn;</l>
+                  <l>Then ſhall the Righteous ſhine forth as the fun;</l>
+                  <l>Whoſe righteous Race the wicked have out run,</l>
+                  <pb n="60" facs="tcp:151349:36"/>
+                  <l>Who dare not cry, <hi>Lord, Lord, have mercy on us;</hi>
+                  </l>
+                  <l>But cry out, <hi>Rocks and Mountains fall upon us,</hi>
+                  </l>
+                  <l>To hide them from the preſence of the Lord:</l>
+                  <l>But Rocks and Mountains ſhall no place afford.</l>
+                  <l>No! Kings and Princes ſhall receive their doom,</l>
+                  <l>Judges themſelves muſt now to Judgement come.</l>
+                  <l>No Bribes nor Fees, now, Juſtice ſhall take place;</l>
+                  <l>The Righteous Judge will plead the Poor mans caſe</l>
+                  <l>And in his juſtice, wil pronounce this ſentence,</l>
+                  <l>Upon all thoſe that dy'd without Repentance;</l>
+                  <l>The Whore-monger, the Swearer and the Lier,</l>
+                  <l>Depart ye Curs'd into eternal Fire.</l>
+                  <l>But to the Righteous, thus the Lord will ſay,</l>
+                  <l>Come, come ye bleſs'd into eternal Joy.</l>
+                  <l>In Joyes unſpeakable, ever for to Sing</l>
+                  <l>Sweet <hi>Hallelujah's</hi> to your heavenly King.</l>
+                  <l>O, who will not Gods Holy Word obey,</l>
+                  <l>And tremble at the thoughts of this great day?</l>
+                  <l>Let's watch and pray, we may our ſelves prepare,</l>
+                  <l>Leſt it ſhould come upon us unaware.</l>
+                  <l>
+                     <hi>Hallelujah.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>His</hi> Verſes <hi>upon the</hi> 5th <hi>of</hi> November, <hi>the</hi> 30th. <hi>of</hi> January, <hi>and the</hi> 29th. <hi>of</hi> May.</head>
+               <lg>
+                  <head>
+                     <hi>For the Fifth of</hi> November.</head>
+                  <l>NOw was that Curſed Jeſuite-invention,</l>
+                  <l>So cruel and ſo horrid an intention,</l>
+                  <l>With Romiſh Powder found out by a Fryer,</l>
+                  <l>Whoſe Subtilty the Devil might admire!</l>
+                  <pb n="61" facs="tcp:151349:36"/>
+                  <l>A dreadfull Blow that quickly would have ſent</l>
+                  <l>Up to the Clouds, our King and Parliament;</l>
+                  <l>A helliſh Plot in ſecret Wrought by night,</l>
+                  <l>Which the Almighties Wiſdom brought to light,</l>
+                  <l>The Papal actions to a ſudden ſhame,</l>
+                  <l>Bleſſed for ever be his holy Name.</l>
+                  <l>Now to this day it's call'd the Powder plot,</l>
+                  <l>Throughout this Land, never to be forgot;</l>
+                  <l>Which day we keep in Memory therefore</l>
+                  <l>To be obſerv'd, till Time ſhall be no more.</l>
+               </lg>
+               <lg>
+                  <head>
+                     <hi>For the</hi> 30th, <hi>of</hi> January.</head>
+                  <l>O Day of horror! thou that art confin'd</l>
+                  <l>To be forgot; and yet be bore in mind!</l>
+                  <l>Thou fill'ſt this Land with grievous Lamentations,</l>
+                  <l>To be a hiſſing, to all forraign Nations!</l>
+                  <l>The very Heathens where we traffick bring,</l>
+                  <l>Cry out falſe Traytors, you that kill'd your King?</l>
+                  <l>Alas! that Chriſtian's guilty are of that,</l>
+                  <l>Which Turks and Pagans are amazed at!</l>
+                  <l>Ah Bloody day! how vile thou doſt appear?</l>
+                  <l>Why art thou in the Number of the Year,</l>
+                  <l>To be a Blot upon the Chriſtians name?</l>
+                  <l>And to this Land an Everlaſting ſhame!</l>
+                  <l>O Lord forgive this great iniquitie!</l>
+                  <l>And let this day a day of Sorrow be:</l>
+                  <l>A day of Mourning for ſo great a Crime,</l>
+                  <l>To after Ages till the end of Time.</l>
+               </lg>
+               <lg>
+                  <pb n="62" facs="tcp:151349:37"/>
+                  <head>
+                     <hi>For the</hi> 29th, <hi>of</hi> May.</head>
+                  <l>THis is the Joyfull Birth and Reſtoration,</l>
+                  <l>Of our dread Prince the Monarch of this Nati<g ref="char:EOLhyphen"/>on</l>
+                  <l>This day Lord <hi>Monk.</hi> with many Nobles more,</l>
+                  <l>Did all repair to welcome Him on ſhore;</l>
+                  <l>Great Multitudes to ſee the KING this day:</l>
+                  <l>Were more than thouſand's ſtanding by the way,</l>
+                  <l>Throughout this Land, who could not but admire:</l>
+                  <l>The Hills and Mountains all were ſet on fire;</l>
+                  <l>The Trumpets ſound, the Bells moſt ſweetly Ring;</l>
+                  <l>The People ſhout, and cry, <hi>God ſave the KING.</hi>
+                  </l>
+                  <l>Harmon'ous inſtruments of Muſick ſweet.</l>
+                  <l>Melodiouſly were heard in every Street:</l>
+                  <l>A day of ſo great Triumph and of Fame,</l>
+                  <l>The tongue of man can ne're declare the ſame.</l>
+                  <l>And now the King enjoyes his own again:</l>
+                  <l>God grant him long in Health &amp; Wealth to Raign.</l>
+               </lg>
+               <lg>
+                  <l>HAſt from the Preſs, my Muſe, ſalute the ſpring,</l>
+                  <l>Chant forth thy Anthems, make the vallies Ring:</l>
+                  <l>Sing like a <hi>Siren,</hi> that all comers near thee,</l>
+                  <l>They may be raviſh'd, and amaz'd to hear thee.</l>
+                  <l>Fly thou my little Bird to every Town,</l>
+                  <l>And ſee thou put all Wanton Singers down</l>
+                  <l>With thy ſweet voice; where ever thou ſhalt com,</l>
+                  <l>They may be ſilent, and for ever dum:</l>
+                  <l>Seek thou no reſt, but fly a thouſand waies;</l>
+                  <l>In every Corner ſing <hi>Jehovah's</hi> praiſe:</l>
+                  <l>Then all will ſay, that ſit, to here thee ſing,</l>
+                  <l>Thou art the ſweeteſt Bird of all the ſpring.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151349:37"/>
+            <pb facs="tcp:151349:38"/>
+            <pb facs="tcp:151349:38"/>
+         </div>
+      </body>
+   </text>
+</TEI>
